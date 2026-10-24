@@ -1,0 +1,39 @@
+{
+  "version": "1.1.0-preview.2-lossless",
+  "runtimeVersion": "1.1.0",
+  "brand": "大猪扎",
+  "heroSkins": {
+    "completed": 176,
+    "total": 176,
+    "images": 352
+  },
+  "cards": {
+    "listed": 1393,
+    "available": 1376
+  },
+  "events": 235,
+  "monsters": 134,
+  "storage": 1,
+  "mainMenuGroups": 16,
+  "catalogControls": 1955,
+  "inGameVisualVerified": false,
+  "distribution": {
+    "channels": [
+      "baidu",
+      "github"
+    ],
+    "baidu": {
+      "url": "https://pan.baidu.com/s/1mrMRBw9EiSt3kIHC6y7zKw?pwd=q79x",
+      "code": "q79x",
+      "expiration": "permanent",
+      "uploadedFiles": 7,
+      "status": "shared"
+    },
+    "github": {
+      "url": "https://github.com/wjxkdym/dazhuzha/releases/tag/v1.1.0-preview.2-lossless",
+      "status": "publishing"
+    },
+    "website": "cancelled",
+    "bt": "cancelled"
+  }
+}

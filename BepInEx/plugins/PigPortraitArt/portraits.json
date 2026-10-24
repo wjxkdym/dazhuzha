@@ -1,0 +1,4233 @@
+{
+  "schemaVersion": 1,
+  "version": "1.1.0",
+  "scope": "Completed skins from all client skin assets; exact asset identity mapping",
+  "completedSkins": 176,
+  "totalSkins": 176,
+  "heroes": [
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · PYG 01a",
+      "configId": "Skin_PYG_01a",
+      "assetName": "Skin_PYG_01a_SkinData",
+      "internalName": "Skin_PYG_01a",
+      "spriteName": "Skin_PYG_01a_Portrait",
+      "file": "Skin_PYG_01a_Portrait__pig.png",
+      "sha256": "0650e6e17f2559ecb6e01aca34c42a1564ee5eef1cced0a0ef1afb7be512c050",
+      "fullFile": "Skin_PYG_01a_StoreImage__pig.png",
+      "fullSha256": "ff553c35f044064e018cdb828cbe0f6ed6a8fb7acc0a0e780b945c4ce7b38d7e",
+      "portraitPixelsPerUnit": 364.5249709639953,
+      "portraitPivot": [
+        0.49943224654392815,
+        0.46240694122593995
+      ],
+      "fullContent": [
+        0.11244019138755981,
+        0.01674641148325359,
+        0.7886762360446571,
+        0.9617224880382775
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · [RECOLOR] Tempo Pygmalien",
+      "configId": "Skin_PYG_01b",
+      "assetName": "Skin_PYG_01b_SkinData",
+      "internalName": "Skin_PYG_01b",
+      "spriteName": "Skin_PYG_01b_Portrait",
+      "file": "Skin_PYG_01b_Portrait__pig.png",
+      "sha256": "6bf135188748649182985432e1e1a447cfe73e61d68db686f6d16bb38fa43744",
+      "fullFile": "Skin_PYG_01b_StoreImage__pig.png",
+      "fullSha256": "9cb1f46e9004696bbbc4a7a660cc4f46b7bab6f00f117366f5caf8d7656d910a",
+      "portraitPixelsPerUnit": 372.8501742160279,
+      "portraitPivot": [
+        0.4994192799070848,
+        0.4339090520091804
+      ],
+      "fullContent": [
+        0.10925039872408293,
+        0.005582137161084529,
+        0.8046251993620415,
+        0.9856459330143541
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Shrewd Investor Pygmalien",
+      "configId": "Skin_PYG_02a",
+      "assetName": "Skin_PYG_02a_SkinData",
+      "internalName": "Skin_PYG_02a",
+      "spriteName": "Skin_PYG_02a_Portrait",
+      "file": "Skin_PYG_02a_Portrait__pig.png",
+      "sha256": "66c8ce943c41455d59c7bd6334466025dc105dd7670c6365e591a7f550510f8c",
+      "fullFile": "Skin_PYG_02a_StoreImage__pig.png",
+      "fullSha256": "ba89072a3c3715ab8e76d79889e7217341a19ce7fb1413c3cef298acb989e9c5",
+      "portraitPixelsPerUnit": 368.81355932203394,
+      "portraitPivot": [
+        0.5018179114967697,
+        0.4712107696050604
+      ],
+      "fullContent": [
+        0.11562998405103668,
+        0.025518341307814992,
+        0.7161084529505582,
+        0.9665071770334929
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Shrewd Investor Pygmalien B",
+      "configId": "Skin_PYG_02b",
+      "assetName": "Skin_PYG_02b_SkinData",
+      "internalName": "Skin_PYG_02b",
+      "spriteName": "Skin_PYG_02b_Portrait",
+      "file": "Skin_PYG_02b_Portrait__pig.png",
+      "sha256": "1533dfbc474ab06b53c0bf3278f8bf2629d29f63a1552926dd4f9fffd74e01ac",
+      "fullFile": "Skin_PYG_02b_StoreImage__pig.png",
+      "fullSha256": "0c891032d8029a6d3db09e0ddb5c4efc0dc20df13f944d5288677826b0167c93",
+      "portraitPixelsPerUnit": 370.363196125908,
+      "portraitPivot": [
+        0.501416773829798,
+        0.46826523164614153
+      ],
+      "fullContent": [
+        0.058213716108452954,
+        0.017543859649122806,
+        0.7886762360446571,
+        0.9784688995215312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Pack Mule Pygmalien",
+      "configId": "Skin_PYG_03a",
+      "assetName": "Skin_PYG_03a_SkinData",
+      "internalName": "Skin_PYG_03a",
+      "spriteName": "Skin_PYG_03a_Portrait",
+      "file": "Skin_PYG_03a_Portrait__pig.png",
+      "sha256": "24b3de4830672a5354a0d4a7b716223f4c625a4971eced940e15564fc15d286c",
+      "fullFile": "Skin_PYG_03a_StoreImage__pig.png",
+      "fullSha256": "fe0e85b7e686d49a9ffd48321753d8544e5cefc65ca9c5a2e3b346302a6f28c7",
+      "portraitPixelsPerUnit": 365.7142857142857,
+      "portraitPivot": [
+        0.4757347915242652,
+        0.45636819321029853
+      ],
+      "fullContent": [
+        0.20494417862838915,
+        0.007177033492822967,
+        0.6690590111642744,
+        0.981658692185008
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Competitor Pygmalien",
+      "configId": "Skin_PYG_03b",
+      "assetName": "Skin_PYG_03b_SkinData",
+      "internalName": "Skin_PYG_03b",
+      "spriteName": "Skin_PYG_03b_Portrait",
+      "file": "Skin_PYG_03b_Portrait__pig.png",
+      "sha256": "e1dd78c09f7e5561ad5e5fe7f134fe90ec0c8c5ab33ab565cd6e89d28f8cb69c",
+      "fullFile": "Skin_PYG_03b_StoreImage__pig.png",
+      "fullSha256": "4ba772625680480d8763470515a61e074245a4b47bd229601b9affd7bbebc288",
+      "portraitPixelsPerUnit": 359.20581113801455,
+      "portraitPivot": [
+        0.48070870550799183,
+        0.4622003776776301
+      ],
+      "fullContent": [
+        0.18022328548644337,
+        0.007974481658692184,
+        0.6929824561403509,
+        0.9896331738437002
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Old Money Pygmalien",
+      "configId": "Skin_PYG_04a",
+      "assetName": "Skin_PYG_04a_SkinData",
+      "internalName": "Skin_PYG_04a",
+      "spriteName": "Skin_PYG_04a_Portrait",
+      "file": "Skin_PYG_04a_Portrait__pig.png",
+      "sha256": "66b444cd32ef1ed5b4a72dfe9f90d8cca33eb3ee561dc0be7d99dd2effde57db",
+      "fullFile": "Skin_PYG_04a_StoreImage__pig.png",
+      "fullSha256": "d1e16e56e42d5a062cd939be0617babb32041eb684227b4bc9b248cc1c86de21",
+      "portraitPixelsPerUnit": 368.2533495736906,
+      "portraitPivot": [
+        0.5026162321982567,
+        0.4689510011325512
+      ],
+      "fullContent": [
+        0.12041467304625199,
+        0.006379585326953748,
+        0.7799043062200957,
+        0.9864433811802232
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Mogul Pygmalien B",
+      "configId": "Skin_PYG_04b",
+      "assetName": "Skin_PYG_04b_SkinData",
+      "internalName": "Skin_PYG_04b",
+      "spriteName": "Skin_PYG_04b_Portrait",
+      "file": "Skin_PYG_04b_Portrait__pig.png",
+      "sha256": "8196bc74d124496c9a09b486b878964b7a3a11df54030b95ce4928fc8b165ae3",
+      "fullFile": "Skin_PYG_04b_StoreImage__pig.png",
+      "fullSha256": "4141eb2c64d80642ef9c250656f003ed2f2be0e910dbeb63b82df2197e0b0a39",
+      "portraitPixelsPerUnit": 370.26341463414633,
+      "portraitPivot": [
+        0.4998220329093243,
+        0.4673493600964717
+      ],
+      "fullContent": [
+        0.1283891547049442,
+        0.009569377990430622,
+        0.766347687400319,
+        0.9824561403508771
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Play Hard Pygmalien A",
+      "configId": "Skin_PYG_05a",
+      "assetName": "Skin_PYG_05a_SkinData",
+      "internalName": "Skin_PYG_05a",
+      "spriteName": "Skin_PYG_05a_Portrait",
+      "file": "Skin_PYG_05a_Portrait__pig.png",
+      "sha256": "225d6b48aa0cbb63ea78b08bf5320210f23884cb3499a902b5aaaf76210562ff",
+      "fullFile": "Skin_PYG_05a_StoreImage__pig.png",
+      "fullSha256": "54e0bb24014fa43060cbadfc45a107cc1eac1454d9732381eee907838591bfcc",
+      "portraitPixelsPerUnit": 366.6019417475728,
+      "portraitPivot": [
+        0.5436215760053267,
+        0.45502934299561787
+      ],
+      "fullContent": [
+        0.16427432216905902,
+        0.028708133971291867,
+        0.7089314194577353,
+        0.9505582137161085
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Play Hard Pygmalien",
+      "configId": "Skin_PYG_05b",
+      "assetName": "Skin_PYG_05b_SkinData",
+      "internalName": "Skin_PYG_05b",
+      "spriteName": "Skin_PYG_05b_Portrait",
+      "file": "Skin_PYG_05b_Portrait__pig.png",
+      "sha256": "abcae77f703f17a5422db1234a011d0ef7316fc6b35a1e5bdd35bc1a6fa25cd5",
+      "fullFile": "Skin_PYG_05b_StoreImage__pig.png",
+      "fullSha256": "0802a6b9361148524686e28bc581ec9c2339d9f4b7bfddf8a7f4ff9c9eb8cd44",
+      "portraitPixelsPerUnit": 377.1650485436893,
+      "portraitPivot": [
+        0.5456529397191124,
+        0.46357868413310416
+      ],
+      "fullContent": [
+        0.1339712918660287,
+        0.013556618819776715,
+        0.7344497607655502,
+        0.9744816586921851
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Shredded Pork Pygmalien",
+      "configId": "Skin_PYG_06a",
+      "assetName": "Skin_PYG_06a_SkinData",
+      "internalName": "Skin_PYG_06a",
+      "spriteName": "Skin_PYG_06a_Portrait",
+      "file": "Skin_PYG_06a_Portrait__pig.png",
+      "sha256": "fc0a2ebf8d412f610aa049d6309fb5820751f076b872e3fb6b24535c9449374c",
+      "fullFile": "Skin_PYG_06a_StoreImage__pig.png",
+      "fullSha256": "275f62b4e02b781115822f86b21cb76ffb9db346d39c694581e1117d4d84c246",
+      "portraitPixelsPerUnit": 368.913730255164,
+      "portraitPivot": [
+        0.5057580020968139,
+        0.4625577253638902
+      ],
+      "fullContent": [
+        0.17942583732057416,
+        0.027910685805422646,
+        0.7559808612440191,
+        0.9449760765550239
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Shredded Pork Pygmalien B",
+      "configId": "Skin_PYG_06b",
+      "assetName": "Skin_PYG_06b_SkinData",
+      "internalName": "Skin_PYG_06b",
+      "spriteName": "Skin_PYG_06b_Portrait",
+      "file": "Skin_PYG_06b_Portrait__pig.png",
+      "sha256": "c136bbb2a2177b003396378753083e7004eb9b30abf652baf86ca3b660cdc67a",
+      "fullFile": "Skin_PYG_06b_StoreImage__pig.png",
+      "fullSha256": "318ee379504b02854a653fa3dd79fc77e9112fcff0f386a94c7b4c76f3d7f435",
+      "portraitPixelsPerUnit": 384.7776427703524,
+      "portraitPivot": [
+        0.5033879435139267,
+        0.4622466915106168
+      ],
+      "fullContent": [
+        0.13556618819776714,
+        0.015151515151515152,
+        0.8070175438596491,
+        0.9712918660287081
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Jabalian Bard Pygmalien",
+      "configId": "Skin_PYG_07a",
+      "assetName": "Skin_PYG_07a_SkinData",
+      "internalName": "Skin_PYG_07a",
+      "spriteName": "Skin_PYG_07a_Portrait",
+      "file": "Skin_PYG_07a_Portrait__pig.png",
+      "sha256": "97c17457650d4a8698e6e4537412f3fc998efd4c639ae12d6ee2123bbe734304",
+      "fullFile": "Skin_PYG_07a_StoreImage__pig.png",
+      "fullSha256": "ac3bdda153ee37305cafd7252d20127fe7b760b4a6956e1d897f4814717f93e0",
+      "portraitPixelsPerUnit": 376.39757575757574,
+      "portraitPivot": [
+        0.5433821468271229,
+        0.44671886327388727
+      ],
+      "fullContent": [
+        0.11483253588516747,
+        0.03269537480063796,
+        0.8724082934609251,
+        0.9226475279106858
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Jaballian Bard Pygmalien B",
+      "configId": "Skin_PYG_07b",
+      "assetName": "Skin_PYG_07b_SkinData",
+      "internalName": "Skin_PYG_07b",
+      "spriteName": "Skin_PYG_07b_Portrait",
+      "file": "Skin_PYG_07b_Portrait__pig.png",
+      "sha256": "d1707487f01f637e71e3ea73f221cb92ea922ec0abff37414de8a66086be0f55",
+      "fullFile": "Skin_PYG_07b_full__pig.png",
+      "fullSha256": "6ba81e6ddc0837ae7dcf6a6e0e2511462eddcec1df3094874118c802d7675abc",
+      "portraitPixelsPerUnit": 376.54368932038835,
+      "portraitPivot": [
+        0.5501772967281399,
+        0.4468922748176708
+      ],
+      "fullContent": [
+        0.07097288676236045,
+        0.028708133971291867,
+        0.9202551834130781,
+        0.9322169059011164
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · War Drums Pygmalien  (Top 10)",
+      "configId": "Skin_PYG_08a",
+      "assetName": "Skin_PYG_08a_SkinData",
+      "internalName": "Skin_PYG_08a",
+      "spriteName": "Skin_PYG_08a_Portrait",
+      "file": "Skin_PYG_08a_Portrait__pig.png",
+      "sha256": "9a3725080cbf810af4dc33b21d09ddd638f739494f5fdf434a359066d2819bfc",
+      "fullFile": "Skin_PYG_08a_StoreImage__pig.png",
+      "fullSha256": "ec272ab4e3bcc2d353a03f479d1af652b29375daee4963978b144107ba4799b7",
+      "portraitPixelsPerUnit": 388.1789600967352,
+      "portraitPivot": [
+        0.49939540507859737,
+        0.4619105199516324
+      ],
+      "fullContent": [
+        0.0645933014354067,
+        0.01674641148325359,
+        0.8724082934609251,
+        0.9728867623604466
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · War Drums Pygmalien",
+      "configId": "Skin_PYG_08b",
+      "assetName": "Skin_PYG_08b_SkinData",
+      "internalName": "Skin_PYG_08b",
+      "spriteName": "Skin_PYG_08b_Portrait",
+      "file": "Skin_PYG_08b_Portrait__pig.png",
+      "sha256": "f7fd2054ccfdaf8e0660b128a59e6d500fb42d8707e587900f6bbfab25bcf592",
+      "fullFile": "Skin_PYG_08b_StoreImage__pig.png",
+      "fullSha256": "40e96ae36647aab03a26dc24e9959301c0e8c9f703c1e3393559a5c282462056",
+      "portraitPixelsPerUnit": 388.1789600967352,
+      "portraitPivot": [
+        0.5021864736591396,
+        0.4619105199516324
+      ],
+      "fullContent": [
+        0.08452950558213716,
+        0.017543859649122806,
+        0.8253588516746412,
+        0.970494417862839
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Ring King Pygmalien",
+      "configId": "Skin_PYG_09a",
+      "assetName": "Skin_PYG_09a_SkinData",
+      "internalName": "Skin_PYG_09a",
+      "spriteName": "Skin_PYG_09a_Portrait",
+      "file": "Skin_PYG_09a_Portrait__pig.png",
+      "sha256": "18495623f4c7661f0d9d3c49c69e679bc43bbe18913666efd648ca9a56676eac",
+      "fullFile": "Skin_PYG_09a_StoreImage__pig.png",
+      "fullSha256": "8570fcf5513af44395802ebc8db050cf77ca073007016bfc5919f329a8b570cb",
+      "portraitPixelsPerUnit": 357.2161849710983,
+      "portraitPivot": [
+        0.5039780217754054,
+        0.47563081376589134
+      ],
+      "fullContent": [
+        0.05741626794258373,
+        0.01674641148325359,
+        0.8955342902711324,
+        0.9712918660287081
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Ring King Pygmalien B",
+      "configId": "Skin_PYG_09b",
+      "assetName": "Skin_PYG_09b_SkinData",
+      "internalName": "Skin_PYG_09b",
+      "spriteName": "Skin_PYG_09b_Portrait",
+      "file": "Skin_PYG_09b_Portrait__pig.png",
+      "sha256": "2910e41ee2699d49c3f3d6e10a93c99571416058246a7dc9cceb8fe07df390c6",
+      "fullFile": "Skin_PYG_09b_StoreImage__pig.png",
+      "fullSha256": "f1d28e9fb0f4880cee0e30a41caf980fb6219def931161a5bddd1821ec549309",
+      "portraitPixelsPerUnit": 362.2975778546713,
+      "portraitPivot": [
+        0.5091334028686059,
+        0.47474931430495076
+      ],
+      "fullContent": [
+        0.07256778309409888,
+        0.01674641148325359,
+        0.8851674641148325,
+        0.9649122807017544
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Champion Pygmalien",
+      "configId": "Skin_PYG_09c",
+      "assetName": "Skin_PYG_09c_SkinData",
+      "internalName": "Skin_PYG_09c",
+      "spriteName": "Skin_PYG_09c_Portrait",
+      "file": "Skin_PYG_09c_Portrait__pig.png",
+      "sha256": "cdd1be0d51c5fe924f7dd09c6624c483d11388af824b63d661e2fe5e3aa5d7fc",
+      "fullFile": "Skin_PYG_09c_StoreImage__pig.png",
+      "fullSha256": "8b99589e4f55f306b4f085d8a962b2a484d8b4da2d5a2e8f8ba03791c3b83849",
+      "portraitPixelsPerUnit": 356.3921568627451,
+      "portraitPivot": [
+        0.5146511555180285,
+        0.478500171998624
+      ],
+      "fullContent": [
+        0.09011164274322168,
+        0.04066985645933014,
+        0.861244019138756,
+        0.9409888357256778
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Smooth Operator Pygmalien A",
+      "configId": "Skin_PYG_10a",
+      "assetName": "Skin_PYG_10a_SkinData",
+      "internalName": "Skin_PYG_10a",
+      "spriteName": "Skin_PYG_10a_Portrait",
+      "file": "Skin_PYG_10a_Portrait__pig.png",
+      "sha256": "80d2c645ac210f244bed50584e17a262362a2303a1979faf59a14664cb8ae070",
+      "fullFile": "Skin_PYG_10a_StoreImage__pig.png",
+      "fullSha256": "ceb181acf7860188c3a3a33b6fbe38fd0903bfea5b2b88618527653d33611836",
+      "portraitPixelsPerUnit": 351.4234234234234,
+      "portraitPivot": [
+        0.5036828096038622,
+        0.5072641421325632
+      ],
+      "fullContent": [
+        0.18181818181818182,
+        0.019936204146730464,
+        0.6491228070175439,
+        0.9617224880382775
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Morning Routine Pygmalien",
+      "configId": "Skin_PYG_11a",
+      "assetName": "Skin_PYG_11a_SkinData",
+      "internalName": "Skin_PYG_11a",
+      "spriteName": "Skin_PYG_11a_Portrait",
+      "file": "Skin_PYG_11a_Portrait__pig.png",
+      "sha256": "511ed217c464ac00e3644be0a2af3f7b51394354b73ade5234f215efae2cdbd3",
+      "fullFile": "Skin_PYG_11a_StoreImage__pig.png",
+      "fullSha256": "2ea38ce3ae2063f9c7fd51403042e5af35a9341d329391ce0b128d8001cb54b4",
+      "portraitPixelsPerUnit": 350.6424242424242,
+      "portraitPivot": [
+        0.483425160697888,
+        0.4695809772364796
+      ],
+      "fullContent": [
+        0.1283891547049442,
+        0.018341307814992026,
+        0.8636363636363636,
+        0.9521531100478469
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Empire Builder Pygmalien",
+      "configId": "Skin_PYG_12a",
+      "assetName": "Skin_PYG_12a_SkinData",
+      "internalName": "Skin_PYG_12a",
+      "spriteName": "Skin_PYG_12a_Portrait",
+      "file": "Skin_PYG_12a_Portrait__pig.png",
+      "sha256": "a986f898a7bde9f90d366704273eeb5469c83e2d4d695d188493bb989ba4230c",
+      "fullFile": "Skin_PYG_12a_StoreImage__pig.png",
+      "fullSha256": "69e74b056992eb52b392bd86ef05e6cc9900fd4d4de1bd2e7c819dbb03d6b210",
+      "portraitPixelsPerUnit": 358.2760290556901,
+      "portraitPivot": [
+        0.5422512367204606,
+        0.4618943352217215
+      ],
+      "fullContent": [
+        0.09728867623604466,
+        0.024720893141945772,
+        0.8891547049441786,
+        0.9569377990430622
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Founder Pygmalien",
+      "configId": "Skin_PYG_13a",
+      "assetName": "Skin_PYG_13a_SkinData",
+      "internalName": "Skin_PYG_13a",
+      "spriteName": "Skin_PYG_13a_Portrait",
+      "file": "Skin_PYG_13a_Portrait__pig.png",
+      "sha256": "1aa4c721f123a48a89324f96392c267e2f9f25a3a21e3965f8fa06c728688d01",
+      "fullFile": "Skin_PYG_13a_full__pig.png",
+      "fullSha256": "fdf064b4d5ca069b50b69814814c86996f28ef2054df31e193ab088e9af54797",
+      "portraitPixelsPerUnit": 341.05263157894734,
+      "portraitPivot": [
+        0.48393037018383284,
+        0.5099576093343406
+      ],
+      "fullContent": [
+        0.18421052631578946,
+        0.008771929824561403,
+        0.6395534290271132,
+        0.9856459330143541
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Spring Whimsy Pygmalien",
+      "configId": "Skin_PYG_15a",
+      "assetName": "Skin_PYG_15a_SkinData",
+      "internalName": "Skin_PYG_15a",
+      "spriteName": "Skin_PYG_15a_Portrait",
+      "file": "Skin_PYG_15a_Portrait__pig.png",
+      "sha256": "f24c18a101c4cc77a9f51be61cbce5104a5c6935902bd7719bb2abe422d4374b",
+      "fullFile": "Skin_PYG_15a_StoreImage__pig.png",
+      "fullSha256": "c8062582a16646d42c2759e15e7c17acf7a53bf8e6b6bd98b8027bfd4153c8cc",
+      "portraitPixelsPerUnit": 365.7142857142857,
+      "portraitPivot": [
+        0.5403850535429483,
+        0.4555707450444293
+      ],
+      "fullContent": [
+        0.024720893141945772,
+        0.018341307814992026,
+        0.9473684210526315,
+        0.9688995215311005
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Summer Surf Pygmalien",
+      "configId": "Skin_PYG_16a",
+      "assetName": "Skin_PYG_16a_SkinData",
+      "internalName": "Skin_PYG_16a",
+      "spriteName": "Skin_PYG_16a_Portrait",
+      "file": "Skin_PYG_16a_Portrait__pig.png",
+      "sha256": "9b7ecdf5d928829026f69ccc54a03ffa8da9a5bf03bbb554f454f126ff17c436",
+      "fullFile": "Skin_PYG_16a_StoreImage__pig.png",
+      "fullSha256": "ca025c266e523f76896296e1b17b546607495623a1746f05305f06098fe21c4a",
+      "portraitPixelsPerUnit": 361.5135135135135,
+      "portraitPivot": [
+        0.5146396396396397,
+        0.45934361394887707
+      ],
+      "fullContent": [
+        0.12599681020733652,
+        0.030303030303030304,
+        0.79585326953748,
+        0.9497607655502392
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Whole Hog Pygmalien",
+      "configId": "Skin_PYG_17a",
+      "assetName": "Skin_PYG_17a_SkinData",
+      "internalName": "Skin_PYG_17a",
+      "spriteName": "Skin_PYG_17a_Portrait",
+      "file": "Skin_PYG_17a_Portrait__pig.png",
+      "sha256": "cccb06acdb2afe2f82042c4d20137115067315007c7e376ad5c22fe23e40ba8a",
+      "fullFile": "Skin_PYG_17a_StoreImage__pig.png",
+      "fullSha256": "f8c51ddaca5bbcd23b71b0e04857b6071e6e9d77253e251fc825325fe84f255b",
+      "portraitPixelsPerUnit": 369.7087378640777,
+      "portraitPivot": [
+        0.49942417274430556,
+        0.4387803688391323
+      ],
+      "fullContent": [
+        0.007974481658692184,
+        0.023125996810207338,
+        0.9856459330143541,
+        0.9441786283891547
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Tech Savvy Pygmalien",
+      "configId": "Skin_PYG_18a",
+      "assetName": "Skin_PYG_18a_SkinData",
+      "internalName": "Skin_PYG_18a",
+      "spriteName": "Skin_PYG_18a_Portrait",
+      "file": "Skin_PYG_18a_Portrait__pig.png",
+      "sha256": "91d1ac9e9963cba3d40fd5e2473fe3540c1e78c591a01f108491f1c9b9f238b1",
+      "fullFile": "Skin_PYG_18a_StoreImage__pig.png",
+      "fullSha256": "9418a5810aa84c9e55e8f1012f8cc83f29625f6606204e678d17da02de81b6f7",
+      "portraitPixelsPerUnit": 336.0581818181818,
+      "portraitPivot": [
+        0.5134072785268958,
+        0.4610439321444106
+      ],
+      "fullContent": [
+        0.09170653907496013,
+        0.018341307814992026,
+        0.8149920255183413,
+        0.9625199362041468
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Mystic Legend Pygmalien",
+      "configId": "Skin_PYG_19",
+      "assetName": "Skin_PYG_19_SkinData",
+      "internalName": "Skin_PYG_19",
+      "spriteName": "Skin_PYG_19_Portrait",
+      "file": "Skin_PYG_19_Portrait__pig.png",
+      "sha256": "85c6b34ff835df2d0274ced279552d615621eef2e9b467c91cbcd40ee03781f9",
+      "fullFile": "Skin_PYG_19_StoreImage__pig.png",
+      "fullSha256": "8d80b83513754ba4d85e64afb8adf42cdbf96f160598703dbbad48cb4baa3c59",
+      "portraitPixelsPerUnit": 377.6,
+      "portraitPivot": [
+        0.4692085326953748,
+        0.45873205741626794
+      ],
+      "fullContent": [
+        0.08771929824561403,
+        0.0215311004784689,
+        0.8636363636363636,
+        0.970494417862839
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Jungle Extractor Pygmalien",
+      "configId": "Skin_PYG_20a",
+      "assetName": "Skin_PYG_20a_SkinData",
+      "internalName": "Skin_PYG_20a",
+      "spriteName": "Skin_PYG_20a_Portrait",
+      "file": "Skin_PYG_20a_Portrait__pig.png",
+      "sha256": "fe551b5076c9ae435e73e66c1baac2762ed745b0cb8b5a75db90daddc6ec5f10",
+      "fullFile": "Skin_PYG_20a_StoreImage__pig.png",
+      "fullSha256": "0a54d0dcefc9c66a535140beec9598f13efb5c6a7b999893d8b38a135921532b",
+      "portraitPixelsPerUnit": 379.48967193195625,
+      "portraitPivot": [
+        0.45648190674410544,
+        0.46155292129583875
+      ],
+      "fullContent": [
+        0.10287081339712918,
+        0.019138755980861243,
+        0.7974481658692185,
+        0.9720893141945773
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Jungle Extractor Pygmalien (Top 100)",
+      "configId": "Skin_PYG_20b",
+      "assetName": "Skin_PYG_20b_SkinData",
+      "internalName": "Skin_PYG_20b",
+      "spriteName": "Skin_PYG_20b_Portrait",
+      "file": "Skin_PYG_20b_Portrait__pig.png",
+      "sha256": "de1d8397ddc2f9673b5c2f7c0bf03320a5059ab7a549b9f1bc0d2bc8df78d242",
+      "fullFile": "Skin_PYG_20b_StoreImage__pig.png",
+      "fullSha256": "278be082df25c7d1725be3e056b8e822b3a688f605fe82e540b792adc0833e29",
+      "portraitPixelsPerUnit": 372.3353584447145,
+      "portraitPivot": [
+        0.4553462940461725,
+        0.4634288139436185
+      ],
+      "fullContent": [
+        0.08692185007974482,
+        0.012759170653907496,
+        0.7854864433811802,
+        0.981658692185008
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · Primal Pyg",
+      "configId": "Skin_PYG_21a",
+      "assetName": "Skin_PYG_21a_SkinData",
+      "internalName": "Skin_PYG_21a",
+      "spriteName": "Skin_PYG_21a_Portrait",
+      "file": "Skin_PYG_21a_Portrait__pig.png",
+      "sha256": "825aeefe5f7c604c55ff2fc3799e7f4a4b34c43abc654073e4734d8487cf7ff3",
+      "fullFile": "Skin_PYG_21a_StoreImage__pig.png",
+      "fullSha256": "94e4c0b07093b4a7a222e345789c127b07b8096de40ecc5bb5bb6b9cddb7aacf",
+      "portraitPixelsPerUnit": 338.9755579171095,
+      "portraitPivot": [
+        0.459369126129012,
+        0.5128634067053442
+      ],
+      "fullContent": [
+        0.08293460925039872,
+        0.009569377990430622,
+        0.8094098883572568,
+        0.9856459330143541
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Pygmalien",
+      "label": "皮格马利翁 · High Flyer Pygmalien",
+      "configId": "Skin_PYG_22a",
+      "assetName": "Skin_PYG_22a_SkinData",
+      "internalName": "Skin_PYG_22a",
+      "spriteName": "Skin_PYG_22a_Portrait",
+      "file": "Skin_PYG_22a_Portrait__pig.png",
+      "sha256": "c11881a9e0e2f05fc90a539551ce8ea309002f0af2d61617b3577c3196b130da",
+      "fullFile": "Skin_PYG_22a_StoreImage__pig.png",
+      "fullSha256": "ed1a2bcb37b6b7faf9821e644559a1f3de2830a62b323f74da320a6018268c28",
+      "portraitPixelsPerUnit": 348.2522522522523,
+      "portraitPivot": [
+        0.4620314093998305,
+        0.4965587597166545
+      ],
+      "fullContent": [
+        0.03668261562998405,
+        0.029505582137161084,
+        0.9545454545454546,
+        0.9577352472089314
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · VAN 01a",
+      "configId": "Skin_VAN_01a",
+      "assetName": "Skin_VAN_01a_SkinData",
+      "internalName": "Skin_VAN_01a",
+      "spriteName": "Skin_VAN_01a_Portrait",
+      "file": "Skin_VAN_01a_Portrait__pig.png",
+      "sha256": "3f12d5bd5147ca0d2141b6aa10d4795d0f5783a5a4cbabdca3a8983186ccb8e8",
+      "fullFile": "Skin_VAN_01a_StoreImage__pig.png",
+      "fullSha256": "1f1a86a314a78df899305a573ed445065dc9e1df39d87a5d629e7a772fa50e2c",
+      "portraitPixelsPerUnit": 362.7409988385598,
+      "portraitPivot": [
+        0.5129916439287427,
+        0.47493965882926087
+      ],
+      "fullContent": [
+        0.14912280701754385,
+        0.007177033492822967,
+        0.7543859649122807,
+        0.9808612440191388
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Tempo Vanessa",
+      "configId": "Skin_VAN_01b",
+      "assetName": "Skin_VAN_01b_SkinData",
+      "internalName": "Skin_VAN_01b",
+      "spriteName": "Skin_VAN_01b_Portrait",
+      "file": "Skin_VAN_01b_Portrait__pig.png",
+      "sha256": "992ccb46781f757b2d2b99193b4b601d250e9cc314bdcd762743eb1c01400427",
+      "fullFile": "Skin_VAN_01b_StoreImage__pig.png",
+      "fullSha256": "0857d106c78298e13741f5a4db79a9891e00c30864817eeceaba7bdcb1473b08",
+      "portraitPixelsPerUnit": 347.2799070847851,
+      "portraitPivot": [
+        0.5130157248257377,
+        0.48591545382302764
+      ],
+      "fullContent": [
+        0.15231259968102073,
+        0.004784688995215311,
+        0.7503987240829346,
+        0.9776714513556619
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Fortune Seeker Vanessa",
+      "configId": "Skin_VAN_01c",
+      "assetName": "Skin_VAN_01c_SkinData",
+      "internalName": "Skin_VAN_01c",
+      "spriteName": "Skin_VAN_01c_Portrait",
+      "file": "Skin_VAN_01c_Portrait__pig.png",
+      "sha256": "5b20f29b97cefee1c8be6da5579b557645f190e2e9c46695a891651f74c7b458",
+      "fullFile": "Skin_VAN_01c_StoreImage__pig.png",
+      "fullSha256": "e4bcdaa2ec16dfb530a10a67e14732c11b25e9b896c8fc1d6b75b1a4ccd283fd",
+      "portraitPixelsPerUnit": 357.68641114982574,
+      "portraitPivot": [
+        0.5086135516174027,
+        0.4654596580142151
+      ],
+      "fullContent": [
+        0.1634768740031898,
+        0.011961722488038277,
+        0.722488038277512,
+        0.9824561403508771
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Pillager Vanessa",
+      "configId": "Skin_VAN_02a",
+      "assetName": "Skin_VAN_02a_SkinData",
+      "internalName": "Skin_VAN_02a",
+      "spriteName": "Skin_VAN_02a_Portrait",
+      "file": "Skin_VAN_02a_Portrait__pig.png",
+      "sha256": "bff2de9a481c6151f948359fc7a24d73cf2b769bb6fec4427c81936d2c4b637a",
+      "fullFile": "Skin_VAN_02a_StoreImage__pig.png",
+      "fullSha256": "a3f615c74513a7db64e6785c487cfdf667961b6c9f77c2eed4f63902ba919c64",
+      "portraitPixelsPerUnit": 389.00944669365725,
+      "portraitPivot": [
+        0.5017864560800849,
+        0.49517979711885524
+      ],
+      "fullContent": [
+        0.14752791068580542,
+        0.011164274322169059,
+        0.7503987240829346,
+        0.94896331738437
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Cutpurse Vanessa",
+      "configId": "Skin_VAN_02b",
+      "assetName": "Skin_VAN_02b_SkinData",
+      "internalName": "Skin_VAN_02b",
+      "spriteName": "Skin_VAN_02b_Portrait",
+      "file": "Skin_VAN_02b_Portrait__pig.png",
+      "sha256": "0f38c2544298e982a08d0114c6423f22b343cce8a004b98fe28679c7c435ed66",
+      "fullFile": "Skin_VAN_02b_StoreImage__pig.png",
+      "fullSha256": "dcf87ac5acce12f9f03bac21881e020307e007de768e4d536b606a562d5a1513",
+      "portraitPixelsPerUnit": 383.84484848484846,
+      "portraitPivot": [
+        0.5129587743463342,
+        0.4567531777101155
+      ],
+      "fullContent": [
+        0.18421052631578946,
+        0.005582137161084529,
+        0.6945773524720893,
+        0.9896331738437002
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · [RECOLOR] Crimson Blade Vanessa A",
+      "configId": "Skin_VAN_03a",
+      "assetName": "Skin_VAN_03a_SkinData",
+      "internalName": "Skin_VAN_03a",
+      "spriteName": "Skin_VAN_03a_Portrait",
+      "file": "Skin_VAN_03a_Portrait__pig.png",
+      "sha256": "58371d4ce631d0cb49b820463ff69134d5255e800f363a062c6cf47bbc10ab19",
+      "fullFile": "Skin_VAN_03a_StoreImage__pig.png",
+      "fullSha256": "6921228557eeadc9169f68f933b2054b017606f466346d00b51ad49df32c6c77",
+      "portraitPixelsPerUnit": 383.84522370012087,
+      "portraitPivot": [
+        0.5259112797934156,
+        0.4607408650239427
+      ],
+      "fullContent": [
+        0.18660287081339713,
+        0.013556618819776715,
+        0.7496012759170654,
+        0.9792663476874003
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Crimson Blade Vanessa B",
+      "configId": "Skin_VAN_03b",
+      "assetName": "Skin_VAN_03b_SkinData",
+      "internalName": "Skin_VAN_03b",
+      "spriteName": "Skin_VAN_03b_Portrait",
+      "file": "Skin_VAN_03b_Portrait__pig.png",
+      "sha256": "e84d18316f6eb9d858a0127b335726760f0bafcf189c918a84eeed23929b77ed",
+      "fullFile": "Skin_VAN_03b_StoreImage__pig.png",
+      "fullSha256": "1cbdc6eeec7c3618c8c1e72116410241af8cc16d81e9aff47773822ed1b3c4d3",
+      "portraitPixelsPerUnit": 368.32969696969695,
+      "portraitPivot": [
+        0.5234353100381809,
+        0.4618645788023778
+      ],
+      "fullContent": [
+        0.20414673046251994,
+        0.011961722488038277,
+        0.7232854864433812,
+        0.9784688995215312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Crimson Blade Vanessa",
+      "configId": "Skin_VAN_03c",
+      "assetName": "Skin_VAN_03c_SkinData",
+      "internalName": "Skin_VAN_03c",
+      "spriteName": "Skin_VAN_03c_Portrait",
+      "file": "Skin_VAN_03c_Portrait__pig.png",
+      "sha256": "7da88f77055408ada41fc95388080f74b4d98a1841f67f8f67cf5f78a19ab82a",
+      "fullFile": "Skin_VAN_03c_StoreImage__pig.png",
+      "fullSha256": "a22657840e944b3a0fcb3e0312381425980b89893801ad5b199b72a69cb6f74e",
+      "portraitPixelsPerUnit": 371.29297820823246,
+      "portraitPivot": [
+        0.5252625013998787,
+        0.4645840332727041
+      ],
+      "fullContent": [
+        0.21291866028708134,
+        0.017543859649122806,
+        0.726475279106858,
+        0.9760765550239234
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Wave Rider Vanessa A",
+      "configId": "Skin_VAN_04a",
+      "assetName": "Skin_VAN_04a_SkinData",
+      "internalName": "Skin_VAN_04a",
+      "spriteName": "Skin_VAN_04a_Portrait",
+      "file": "Skin_VAN_04a_Portrait__pig.png",
+      "sha256": "f88cf912db6c4bb88ceab5498f76c042f149099557e2297df00c74896eeae2fb",
+      "fullFile": "Skin_VAN_04a_StoreImage__pig.png",
+      "fullSha256": "f16005ae168e3ddb4e0a08ba7ddcdcf2235970611e2cdc533e520d722c4e0e26",
+      "portraitPixelsPerUnit": 352.5042424242425,
+      "portraitPivot": [
+        0.4883471074380165,
+        0.4622212556183848
+      ],
+      "fullContent": [
+        0.03588516746411483,
+        0.011164274322169059,
+        0.9433811802232854,
+        0.9872408293460925
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Wave Rider Vanessa B",
+      "configId": "Skin_VAN_04b",
+      "assetName": "Skin_VAN_04b_SkinData",
+      "internalName": "Skin_VAN_04b",
+      "spriteName": "Skin_VAN_04b_Portrait",
+      "file": "Skin_VAN_04b_Portrait__pig.png",
+      "sha256": "4a6d9ecaa1df279c28496d015cba1bf3b7dfdd8603fcde2a51bcbb8e32b71fb4",
+      "fullFile": "Skin_VAN_04b_StoreImage__pig.png",
+      "fullSha256": "cf5b3f9bc68eec51498859252e7ebb3cf0f9f25cf663d128a498ed7442c71d78",
+      "portraitPixelsPerUnit": 338.7506053268765,
+      "portraitPivot": [
+        0.48572220226992746,
+        0.45891500708628274
+      ],
+      "fullContent": [
+        0.04226475279106858,
+        0.023923444976076555,
+        0.9393939393939394,
+        0.9712918660287081
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Founder Vanessa",
+      "configId": "Skin_VAN_05a",
+      "assetName": "Skin_VAN_05a_SkinData",
+      "internalName": "Skin_VAN_05a",
+      "spriteName": "Skin_VAN_05a_Portrait",
+      "file": "Skin_VAN_05a_Portrait__pig.png",
+      "sha256": "aa69afb54715c78e0323e961a82eb6a6b0edf0915d51b10017c400da016acb88",
+      "fullFile": "Skin_VAN_05a_StoreImage__pig.png",
+      "fullSha256": "1d3211cf690847960eec119ddbe5aea5e5c9792ac9f99871fc7890cbee84eb9d",
+      "portraitPixelsPerUnit": 364.9163636363636,
+      "portraitPivot": [
+        0.4702174858634189,
+        0.464193127446716
+      ],
+      "fullContent": [
+        0.19696969696969696,
+        0.025518341307814992,
+        0.6961722488038278,
+        0.9362041467304625
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Back Off Vanessa",
+      "configId": "Skin_VAN_06a",
+      "assetName": "Skin_VAN_06a_SkinData",
+      "internalName": "Skin_VAN_06a",
+      "spriteName": "Skin_VAN_06a_Portrait",
+      "file": "Skin_VAN_06a_Portrait__pig.png",
+      "sha256": "54182b4d05bf1062110d04098191f9f59dd3a50d825bbdb234ea4d6f1e5c2aee",
+      "fullFile": "Skin_VAN_06a_StoreImage__pig.png",
+      "fullSha256": "2c1b1859446c089abb8f8177d345f1a856e6481d09ffccf7ef82834c979dca62",
+      "portraitPixelsPerUnit": 367.3179049939099,
+      "portraitPivot": [
+        0.5048196562716724,
+        0.46066375661221487
+      ],
+      "fullContent": [
+        0.15311004784688995,
+        0.008771929824561403,
+        0.7695374800637959,
+        0.9649122807017544
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Champion Vanessa",
+      "configId": "Skin_VAN_06b",
+      "assetName": "Skin_VAN_06b_SkinData",
+      "internalName": "Skin_VAN_06b",
+      "spriteName": "Skin_VAN_06b_Portrait",
+      "file": "Skin_VAN_06b_Portrait__pig.png",
+      "sha256": "bdfcc2249a938581499321a6cb377fceb967272fbc96120cd44e6d8647a06a7f",
+      "fullFile": "Skin_VAN_06b_StoreImage__pig.png",
+      "fullSha256": "d3512dee1ccd29479e08748936916f41bc512e7e224213135615c151cdeef18d",
+      "portraitPixelsPerUnit": 375.57073170731707,
+      "portraitPivot": [
+        0.5076044462597735,
+        0.46328140195277556
+      ],
+      "fullContent": [
+        0.1634768740031898,
+        0.013556618819776715,
+        0.7296650717703349,
+        0.9760765550239234
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Loose Cannon Vanessa",
+      "configId": "Skin_VAN_07a",
+      "assetName": "Skin_VAN_07a_SkinData",
+      "internalName": "Skin_VAN_07a",
+      "spriteName": "Skin_VAN_07a_Portrait",
+      "file": "Skin_VAN_07a_Portrait__pig.png",
+      "sha256": "eefc3f85b639d894d541c7ee3c2e91204c1ab0fb8bccf296ca5419970132035e",
+      "fullFile": "Skin_VAN_07a_StoreImage__pig.png",
+      "fullSha256": "9f72c111ef369c89c6302a20b2f77f3ca7b995436533a0bc7af0f22178e2ec0c",
+      "portraitPixelsPerUnit": 368.950303030303,
+      "portraitPivot": [
+        0.5314644048136872,
+        0.4638441834614083
+      ],
+      "fullContent": [
+        0.10606060606060606,
+        0.017543859649122806,
+        0.7751196172248804,
+        0.9665071770334929
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Sea Scourge Vanessa",
+      "configId": "Skin_VAN_08a",
+      "assetName": "Skin_VAN_08a_SkinData",
+      "internalName": "Skin_VAN_08a",
+      "spriteName": "Skin_VAN_08a_Portrait",
+      "file": "Skin_VAN_08a_Portrait__pig.png",
+      "sha256": "2e77ea75b27ba7602656ca366f67733de6638b59911d491e7c6c5dd749c58c10",
+      "fullFile": "Skin_VAN_08a_StoreImage__pig.png",
+      "fullSha256": "9e4b2634c54b318e056b40d010e17664befc887a5646dcc05267bc8d78934e0d",
+      "portraitPixelsPerUnit": 359.8930741190766,
+      "portraitPivot": [
+        0.5259635751258185,
+        0.47689628910451315
+      ],
+      "fullContent": [
+        0.21770334928229665,
+        0.019138755980861243,
+        0.6052631578947368,
+        0.9720893141945773
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Battle Dancer Vanessa",
+      "configId": "Skin_VAN_09a",
+      "assetName": "Skin_VAN_09a_SkinData",
+      "internalName": "Skin_VAN_09a",
+      "spriteName": "Skin_VAN_09a_Portrait",
+      "file": "Skin_VAN_09a_Portrait__pig.png",
+      "sha256": "d1adb4d61e60b135b0f6a5208187221a21838600487ffc45f7dacd892efedab0",
+      "fullFile": "Skin_VAN_09a_StoreImage__pig.png",
+      "fullSha256": "a5c5dd8532080fe82ca7483b82e449f705af80aaade172ee9969352a4cbbe200",
+      "portraitPixelsPerUnit": 392.32,
+      "portraitPivot": [
+        0.44603070175438597,
+        0.5670494417862839
+      ],
+      "fullContent": [
+        0.2687400318979266,
+        0.011961722488038277,
+        0.5877192982456141,
+        0.9840510366826156
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · No Prisoners Vanessa",
+      "configId": "Skin_VAN_10a",
+      "assetName": "Skin_VAN_10a_SkinData",
+      "internalName": "Skin_VAN_10a",
+      "spriteName": "Skin_VAN_10a_Portrait",
+      "file": "Skin_VAN_10a_Portrait__pig.png",
+      "sha256": "b1a6330ff7875b473285c9b9cf630c8839e2b8a5b344e9e559e5e827bb260c81",
+      "fullFile": "Skin_VAN_10a_StoreImage__pig.png",
+      "fullSha256": "7aa676878d7ed0e47a22aa1e286120b9a7a8023c0899b1cfd04b8f39e05383a2",
+      "portraitPixelsPerUnit": 363.314702308627,
+      "portraitPivot": [
+        0.5056606223390133,
+        0.46548202495634866
+      ],
+      "fullContent": [
+        0.12200956937799043,
+        0.007974481658692184,
+        0.6858054226475279,
+        0.9880382775119617
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Ocean Agent Vanessa A",
+      "configId": "Skin_VAN_11a",
+      "assetName": "Skin_VAN_11a_SkinData",
+      "internalName": "Skin_VAN_11a",
+      "spriteName": "Skin_VAN_11a_Portrait",
+      "file": "Skin_VAN_11a_Portrait__pig.png",
+      "sha256": "1a69a9c8707c5a13491c8d3e8982b3d8f3bdc9d09c3fc2b34ceee8d236979a69",
+      "fullFile": "Skin_VAN_11a_StoreImage__pig.png",
+      "fullSha256": "47b2a816edeca82f606dd23393bbbae83943fd467109276b7360ba95fe193c6a",
+      "portraitPixelsPerUnit": 387.8787878787879,
+      "portraitPivot": [
+        0.4631482286984679,
+        0.4635348702334348
+      ],
+      "fullContent": [
+        0.18899521531100477,
+        0.015151515151515152,
+        0.733652312599681,
+        0.981658692185008
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Ocean Agent Vanessa B",
+      "configId": "Skin_VAN_11b",
+      "assetName": "Skin_VAN_11b_SkinData",
+      "internalName": "Skin_VAN_11b",
+      "spriteName": "Skin_VAN_11b_Portrait",
+      "file": "Skin_VAN_11b_Portrait__pig.png",
+      "sha256": "107fc7b28c1da3a0dfdb8f3f80863a67763366f7240a0ff64102318c3c66ffbe",
+      "fullFile": "Skin_VAN_11b_StoreImage__pig.png",
+      "fullSha256": "6c99822d96105acff86ba15f8e3324424830f1cdc15083b1db3d2de87157520f",
+      "portraitPixelsPerUnit": 376.25181598062954,
+      "portraitPivot": [
+        0.4582836135021684,
+        0.4688744202571143
+      ],
+      "fullContent": [
+        0.20574162679425836,
+        0.011164274322169059,
+        0.7025518341307815,
+        0.9792663476874003
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Undefeated Vanessa",
+      "configId": "Skin_VAN_12a",
+      "assetName": "Skin_VAN_12a_SkinData",
+      "internalName": "Skin_VAN_12a",
+      "spriteName": "Skin_VAN_12a_Portrait",
+      "file": "Skin_VAN_12a_Portrait__pig.png",
+      "sha256": "dcf8df9d3410d47d8071189c942189b41ab0b8a0387851aae8fadb473d982fd9",
+      "fullFile": "Skin_VAN_12a_StoreImage__pig.png",
+      "fullSha256": "293aa0233c41aaac45400642b8b18f6dc682e985dae65f1b9f70112fcd89a95d",
+      "portraitPixelsPerUnit": 389.11999999999995,
+      "portraitPivot": [
+        0.5544657097288676,
+        0.4618181818181818
+      ],
+      "fullContent": [
+        0.16905901116427433,
+        0.01036682615629984,
+        0.6905901116427432,
+        0.9800637958532695
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Undefeated Vanessa  (Top 10)",
+      "configId": "Skin_VAN_12b",
+      "assetName": "Skin_VAN_12b_SkinData",
+      "internalName": "Skin_VAN_12b",
+      "spriteName": "Skin_VAN_12b_Portrait",
+      "file": "Skin_VAN_12b_Portrait__pig.png",
+      "sha256": "c37ba3715d78eb9abf04ea1f45298b021c68303d19240d4792fa9553aa4b3217",
+      "fullFile": "Skin_VAN_12b_StoreImage__pig.png",
+      "fullSha256": "49fbd0ac1c11e4eb82032b774d37a5acf6cf2f242daddff0c66b1731221815e6",
+      "portraitPixelsPerUnit": 386.0169696969697,
+      "portraitPivot": [
+        0.5468957517761345,
+        0.45813542119762213
+      ],
+      "fullContent": [
+        0.11802232854864433,
+        0.019936204146730464,
+        0.7559808612440191,
+        0.9649122807017544
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Night Heist Vanessa",
+      "configId": "Skin_VAN_13a",
+      "assetName": "Skin_VAN_13a_SkinData",
+      "internalName": "Skin_VAN_13a",
+      "spriteName": "Skin_VAN_13a_Portrait",
+      "file": "Skin_VAN_13a_Portrait__pig.png",
+      "sha256": "166dad1590ca5c18909df1868bee3149cff90228ac68802602532050da55eaef",
+      "fullFile": "Skin_VAN_13a_StoreImage__pig.png",
+      "fullSha256": "f4fc8e41d2b982c6cca7d682472aaa46f9c583ab91fd66a9ab9095a416190f74",
+      "portraitPixelsPerUnit": 358.710303030303,
+      "portraitPivot": [
+        0.5169948286694698,
+        0.47038422502537336
+      ],
+      "fullContent": [
+        0.24720893141945774,
+        0.01036682615629984,
+        0.6754385964912281,
+        0.9681020733652312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Ocean Rogue Vanessa",
+      "configId": "Skin_VAN_14a",
+      "assetName": "Skin_VAN_14a_SkinData",
+      "internalName": "Skin_VAN_14a",
+      "spriteName": "Skin_VAN_14a_Portrait",
+      "file": "Skin_VAN_14a_Portrait__pig.png",
+      "sha256": "66a13f32257e72c1492b4b0a5e5c7c7540b5aa84f44057d45f87abbf2f1915f2",
+      "fullFile": "Skin_VAN_14a_StoreImage__pig.png",
+      "fullSha256": "01bdb4b54878616e9cc0cde8180d75af395161ba1865a684f291dae8a3af34e3",
+      "portraitPixelsPerUnit": 363.23486682808715,
+      "portraitPivot": [
+        0.517813215627667,
+        0.4653872740402624
+      ],
+      "fullContent": [
+        0.24880382775119617,
+        0.009569377990430622,
+        0.7169059011164274,
+        0.9736842105263158
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Take a Break Vanessa",
+      "configId": "Skin_VAN_15a",
+      "assetName": "Skin_VAN_15a_SkinData",
+      "internalName": "Skin_VAN_15a",
+      "spriteName": "Skin_VAN_15a_Portrait",
+      "file": "Skin_VAN_15a_Portrait__pig.png",
+      "sha256": "bf9d1bdbd314312ef9039923a0b7470067beddea2fece8152f719a2cad3dbed8",
+      "fullFile": "Skin_VAN_15a_StoreImage__pig.png",
+      "fullSha256": "0202ff12ec01be132696dd44766b30d637b7738c43f876ab4d62a25c748c32ff",
+      "portraitPixelsPerUnit": 381.67272727272723,
+      "portraitPivot": [
+        0.5457735247208931,
+        0.4541684790488618
+      ],
+      "fullContent": [
+        0.009569377990430622,
+        0.10446570972886762,
+        0.988835725677831,
+        0.6658692185007975
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Honey Trap Vanessa",
+      "configId": "Skin_VAN_16a",
+      "assetName": "Skin_VAN_16a_SkinData",
+      "internalName": "Skin_VAN_16a",
+      "spriteName": "Skin_VAN_16a_Portrait",
+      "file": "Skin_VAN_16a_Portrait__pig.png",
+      "sha256": "1e6c8f70822099f659f06e9dc79377cd374e2ab6d854638fea2d5134581f7613",
+      "fullFile": "Skin_VAN_16a_StoreImage__pig.png",
+      "fullSha256": "cf2162363cf8f5af1fbc106023029f812176f9659cc983669777441067a2bb7d",
+      "portraitPixelsPerUnit": 379.3510895883777,
+      "portraitPivot": [
+        0.501181690744581,
+        0.4502241736853691
+      ],
+      "fullContent": [
+        0.08213716108452951,
+        0.014354066985645933,
+        0.8883572567783095,
+        0.9744816586921851
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Spring Festival Vanessa",
+      "configId": "Skin_VAN_17a",
+      "assetName": "Skin_VAN_17a_SkinData",
+      "internalName": "Skin_VAN_17a",
+      "spriteName": "Skin_VAN_17a_Portrait",
+      "file": "Skin_VAN_17a_Portrait__pig.png",
+      "sha256": "85dbe9f37a16c3baa064fa23a3b6f2e462388e5d7b4f19531541ab01a5e61251",
+      "fullFile": "Skin_VAN_17a_StoreImage__pig.png",
+      "fullSha256": "c891e6db23523cc14ceb6c21f0e841367ed0e5ba5f1ee07bcdf6ea987ac8f67e",
+      "portraitPixelsPerUnit": 362.4339393939394,
+      "portraitPivot": [
+        0.47026484945145236,
+        0.4692214006089604
+      ],
+      "fullContent": [
+        0.18740031897926634,
+        0.023923444976076555,
+        0.7511961722488039,
+        0.9681020733652312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Summer Bounty Vanessa",
+      "configId": "Skin_VAN_18a",
+      "assetName": "Skin_VAN_18a_SkinData",
+      "internalName": "Skin_VAN_18a",
+      "spriteName": "Skin_VAN_18a_Portrait",
+      "file": "Skin_VAN_18a_Portrait__pig.png",
+      "sha256": "7b1cfc4fba2eea69f2fd4d6199eb33ed5835f76820d3fb12b0c7a55da37ac615",
+      "fullFile": "Skin_VAN_18a_StoreImage__pig.png",
+      "fullSha256": "3571d916d6ce725e54574f4455ef5887ab4571b0948b8f8188548f719fdf0ae9",
+      "portraitPixelsPerUnit": 378.1113801452784,
+      "portraitPivot": [
+        0.5274086603256987,
+        0.44993068186645346
+      ],
+      "fullContent": [
+        0.19696969696969696,
+        0.007974481658692184,
+        0.70414673046252,
+        0.9880382775119617
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Summer Bounty Vanessa Variant",
+      "configId": "Skin_VAN_18b",
+      "assetName": "Skin_VAN_18b_SkinData",
+      "internalName": "Skin_VAN_18b",
+      "spriteName": "Skin_VAN_18b_Portrait",
+      "file": "Skin_VAN_18b_Portrait__pig.png",
+      "sha256": "1bb4bfe8465871961ea4d5b61c822a1eae60853bda351a79a1a82e375ccf2114",
+      "fullFile": "Skin_VAN_18b_StoreImage__pig.png",
+      "fullSha256": "6a86c52a72afd86961743dc7863e1dd3003227a3cef7dd110a4f7d257a8a8627",
+      "portraitPixelsPerUnit": 386.4794188861986,
+      "portraitPivot": [
+        0.5420050511486729,
+        0.4586842684523327
+      ],
+      "fullContent": [
+        0.1937799043062201,
+        0.019138755980861243,
+        0.6762360446570973,
+        0.9720893141945773
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Software Pirate Vanessa",
+      "configId": "Skin_VAN_19a",
+      "assetName": "Skin_VAN_19a_SkinData",
+      "internalName": "Skin_VAN_19a",
+      "spriteName": "Skin_VAN_19a_Portrait",
+      "file": "Skin_VAN_19a_Portrait__pig.png",
+      "sha256": "f7981e6ebbc89ffaa5077dc37110280f2ccda0a783fa4c9062dddf3b1d66ad59",
+      "fullFile": "Skin_VAN_19a_StoreImage__pig.png",
+      "fullSha256": "13cc21c579d551139db453e76be7f95d5bf2b4d1142427303beeffd599586493",
+      "portraitPixelsPerUnit": 386.63757575757575,
+      "portraitPivot": [
+        0.5196689381856846,
+        0.46085737760378903
+      ],
+      "fullContent": [
+        0.2647527910685805,
+        0.009569377990430622,
+        0.5885167464114832,
+        0.9880382775119617
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Speedboat Vanessa",
+      "configId": "Skin_VAN_20a",
+      "assetName": "Skin_VAN_20a_SkinData",
+      "internalName": "Skin_VAN_20",
+      "spriteName": "Skin_VAN_20a_Portrait",
+      "file": "Skin_VAN_20a_Portrait__pig.png",
+      "sha256": "3753b8ca5708c8f676a7b8de31a157334c1d2e40123435472d02c25abaeddbea",
+      "fullFile": "Skin_VAN_20a_StoreImage__pig.png",
+      "fullSha256": "a9705b83378b677dff142fb314232b67526d2ac76d941b202ee3cbeeeaaeebe6",
+      "portraitPixelsPerUnit": 378.7312348668281,
+      "portraitPivot": [
+        0.5335739193901549,
+        0.45826044309541186
+      ],
+      "fullContent": [
+        0.06539074960127592,
+        0.011961722488038277,
+        0.868421052631579,
+        0.9872408293460925
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Jungle Treasure Vanessa",
+      "configId": "Skin_VAN_21a",
+      "assetName": "Skin_VAN_21a_SkinData",
+      "internalName": "Skin_VAN_21a",
+      "spriteName": "Skin_VAN_21a_Portrait",
+      "file": "Skin_VAN_21a_Portrait__pig.png",
+      "sha256": "8e84b3b5c0ec6572fde162075c44d68873348db8b9bb5d841fc2203950fae720",
+      "fullFile": "Skin_VAN_21a_StoreImage__pig.png",
+      "fullSha256": "f2277b443ff35b5089c3091cf24a5a46d55c087f40cc37f6a3fe8427972e49fc",
+      "portraitPixelsPerUnit": 362.3295711060948,
+      "portraitPivot": [
+        0.4616252821670429,
+        0.4977426636568849
+      ],
+      "fullContent": [
+        0.03827751196172249,
+        0.027910685805422646,
+        0.9298245614035088,
+        0.9720893141945773
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Vanessa",
+      "label": "瓦妮莎 · Mystic Legend Vanessa",
+      "configId": "Skin_VAN_23a",
+      "assetName": "Skin_VAN_23a_SkinData",
+      "internalName": "Skin_VAN_23a",
+      "spriteName": "Skin_VAN_23a_Portrait",
+      "file": "Skin_VAN_23a_Portrait__pig.png",
+      "sha256": "da0cc9756da806976891e213a5a35207bd4c895ca7150399a63bc1908e27fa0d",
+      "fullFile": "Skin_VAN_23a_StoreImage__pig.png",
+      "fullSha256": "0e00d6338ff8df4fcd117601e3edd3d73e33fd584a8d172a689cdf3082ead1c6",
+      "portraitPixelsPerUnit": 392.4498777506112,
+      "portraitPivot": [
+        0.5256723716381417,
+        0.4580891270184797
+      ],
+      "fullContent": [
+        0.1467304625199362,
+        0.029505582137161084,
+        0.751993620414673,
+        0.9425837320574163
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · STE 01a",
+      "configId": "Skin_STE_01a",
+      "assetName": "Skin_STE_01a_SkinData",
+      "internalName": "Skin_STE_01a",
+      "spriteName": "Skin_STE_01a_Portrait",
+      "file": "Skin_STE_01a_Portrait__pig.png",
+      "sha256": "d118da54286a674e261c78344923d2e4dd275390515559d2971237acdadc1f39",
+      "fullFile": "Skin_STE_01a_StoreImage_TUI__pig.png",
+      "fullSha256": "72e0c59e43efd108e033e1001352e90893cff5c8db19fc06ef82b15777b75fe1",
+      "portraitPixelsPerUnit": 345.67757575757577,
+      "portraitPivot": [
+        0.5236692281668358,
+        0.4620530665506742
+      ],
+      "fullContent": [
+        0.22567783094098884,
+        0.01036682615629984,
+        0.569377990430622,
+        0.9641148325358851
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Tempo Stelle",
+      "configId": "Skin_STE_01b",
+      "assetName": "Skin_STE_01b_SkinData",
+      "internalName": "Skin_STE_01b",
+      "spriteName": "Skin_STE_01b_Portrait",
+      "file": "Skin_STE_01b_Portrait__pig.png",
+      "sha256": "95475129a3f4f3cef015ddc0b76f597e951d4b8e1d24fd02be0863f8ad866bff",
+      "fullFile": "Skin_STE_01b_StoreImage__pig.png",
+      "fullSha256": "ce1db2c65e55debc4ed9eea366417e1b76aa4092b96c557d717b6fa9be79d255",
+      "portraitPixelsPerUnit": 357.59223300970876,
+      "portraitPivot": [
+        0.5132658018612285,
+        0.4507159613508617
+      ],
+      "fullContent": [
+        0.215311004784689,
+        0.007177033492822967,
+        0.5956937799043063,
+        0.9712918660287081
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · High Flyer Stelle",
+      "configId": "Skin_STE_02a",
+      "assetName": "Skin_STE_02a_SkinData",
+      "internalName": "Skin_STE_02a",
+      "spriteName": "Skin_STE_02a_Portrait",
+      "file": "Skin_STE_02a_Portrait__pig.png",
+      "sha256": "f86f25fce1ffc7e9709398d34c2ae3c6a8fb7c89535143f7fbfb0e5462fe3cc0",
+      "fullFile": "Skin_STE_02a_StoreImage__pig.png",
+      "fullSha256": "f2a02744788854c3aa8cd046a609a96b697113546c4b78ac3b16918e9edeaffe",
+      "portraitPixelsPerUnit": 360.65969802555173,
+      "portraitPivot": [
+        0.5006344390169807,
+        0.4861419068736142
+      ],
+      "fullContent": [
+        0.03827751196172249,
+        0.08771929824561403,
+        0.9481658692185008,
+        0.8078149920255183
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · [RECOLOR]  High Flyer Stelle B",
+      "configId": "Skin_STE_02b",
+      "assetName": "Skin_STE_02b_SkinData",
+      "internalName": "Skin_STE_02b",
+      "spriteName": "Skin_STE_02b_Portrait",
+      "file": "Skin_STE_02b_Portrait__pig.png",
+      "sha256": "9505e5f2849f8efe8dcb9803f85dc641b98aca60b2ec5df06c98cc0b4aad7399",
+      "fullFile": "Skin_STE_02b_StoreImage__pig.png",
+      "fullSha256": "17135e98aa6359dcdb267ac57b32c76f8bd34b445c3aea7f3480f8242a28e1b0",
+      "portraitPixelsPerUnit": 372.3636363636364,
+      "portraitPivot": [
+        0.5057996230245034,
+        0.4554878932869363
+      ],
+      "fullContent": [
+        0.045454545454545456,
+        0.07814992025518341,
+        0.937799043062201,
+        0.8444976076555024
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Fix It Stelle A",
+      "configId": "Skin_STE_03a",
+      "assetName": "Skin_STE_03a_SkinData",
+      "internalName": "Skin_STE_03a",
+      "spriteName": "Skin_STE_03a_Portrait",
+      "file": "Skin_STE_03a_Portrait__pig.png",
+      "sha256": "2e719862f537f3297359bf917afed32ec21db0641432a4fb04fb6c5bbb9e7f87",
+      "fullFile": "Skin_STE_03a_StoreImage__pig.png",
+      "fullSha256": "92981fbc91b21b8166271f2b1f5572ca3c224756da477a8169bab785ef61e3b7",
+      "portraitPixelsPerUnit": 352.62135922330094,
+      "portraitPivot": [
+        0.5188764884408726,
+        0.44960108236168533
+      ],
+      "fullContent": [
+        0.23763955342902712,
+        0.008771929824561403,
+        0.5031897926634769,
+        0.9824561403508771
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · [RECOLOR] Fix It Stelle B",
+      "configId": "Skin_STE_04a",
+      "assetName": "Skin_STE_04a_SkinData",
+      "internalName": "Skin_STE_04a",
+      "spriteName": "Skin_STE_04a_Portrait",
+      "file": "Skin_STE_04a_Portrait__pig.png",
+      "sha256": "3f50e2286248ace64012fa766b29521a62c8f096c0c069288c3ad81036a6b037",
+      "fullFile": "Skin_STE_04a_StoreImage__pig.png",
+      "fullSha256": "febe34b36b592fa5b6927a29e219300c1811025d9f3f9da8f45e3962d51d4609",
+      "portraitPixelsPerUnit": 358.089696969697,
+      "portraitPivot": [
+        0.5278082257986564,
+        0.46486298390604613
+      ],
+      "fullContent": [
+        0.22488038277511962,
+        0.012759170653907496,
+        0.5079744816586922,
+        0.9808612440191388
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Gizmo Stelle",
+      "configId": "Skin_STE_05a",
+      "assetName": "Skin_STE_05a_SkinData",
+      "internalName": "Skin_STE_05a",
+      "spriteName": "Skin_STE_05a_Portrait",
+      "file": "Skin_STE_05a_Portrait__pig.png",
+      "sha256": "54e8e407795a191e2ca75a7fc33e06cdc35ca58eb892cefd4c7f369a761b4481",
+      "fullFile": "Skin_STE_05a_StoreImage__pig.png",
+      "fullSha256": "f767a188e4189141d5f2c39b4e41f6f3d72347261bcc0b53ba23671900c6067f",
+      "portraitPixelsPerUnit": 366.5170731707317,
+      "portraitPivot": [
+        0.46991675419146534,
+        0.4477515851713541
+      ],
+      "fullContent": [
+        0.21690590111642744,
+        0.01594896331738437,
+        0.6562998405103668,
+        0.9585326953748007
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Calibrator Stelle",
+      "configId": "Skin_STE_06a",
+      "assetName": "Skin_STE_06a_SkinData",
+      "internalName": "Skin_STE_06a",
+      "spriteName": "Skin_STE_06a_Portrait",
+      "file": "Skin_STE_06a_Portrait__pig.png",
+      "sha256": "8c3598864b82a784ac0377391637c0da860ec55d9641ed8686cae7260b9b0514",
+      "fullFile": "Skin_STE_06a_StoreImage__pig.png",
+      "fullSha256": "cbe8c5bf027fc5ec5a48193ca8af60acee18623c24b3e929b79e47c48fea6d4f",
+      "portraitPixelsPerUnit": 373.4624697336562,
+      "portraitPivot": [
+        0.5069940838228082,
+        0.4687537410552576
+      ],
+      "fullContent": [
+        0.12679425837320574,
+        0.03907496012759171,
+        0.784688995215311,
+        0.9298245614035088
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Sky Patrol Stelle",
+      "configId": "Skin_STE_07a",
+      "assetName": "Skin_STE_07a_SkinData",
+      "internalName": "Skin_STE_07a",
+      "spriteName": "Skin_STE_07a_Portrait",
+      "file": "Skin_STE_07a_Portrait__pig.png",
+      "sha256": "a88593ebdecf206bf8d8737962ef1e2a1da6bf60dce3288322140ad378e870f7",
+      "fullFile": "Skin_STE_07a_StoreImage__pig.png",
+      "fullSha256": "946e682771bc3b9c79ef9ecf048370ab2b9489a3e9c330e93337ef29a4903611",
+      "portraitPixelsPerUnit": 375.57073170731707,
+      "portraitPivot": [
+        0.49941504259540204,
+        0.46806609094799084
+      ],
+      "fullContent": [
+        0.01594896331738437,
+        0.1291866028708134,
+        0.9808612440191388,
+        0.6985645933014354
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Sky Patrol Stelle B",
+      "configId": "Skin_STE_07b",
+      "assetName": "Skin_STE_07b_SkinData",
+      "internalName": "Skin_STE_07b",
+      "spriteName": "Skin_STE_07b_Portrait",
+      "file": "Skin_STE_07b_Portrait__pig.png",
+      "sha256": "c00f708284ce412c73708da0b3ed759b8aa3638ee73c9ebce597a6b70744e12e",
+      "fullFile": "Skin_STE_07b_StoreImage__pig.png",
+      "fullSha256": "a6ad06c79779f15bd525de94dfbf0a3f6c9ec5c3649ef0b4def44bcfa97bbf0d",
+      "portraitPixelsPerUnit": 360.76979293544457,
+      "portraitPivot": [
+        0.5086087492010949,
+        0.460395674159377
+      ],
+      "fullContent": [
+        0.0007974481658692185,
+        0.09808612440191387,
+        0.9992025518341308,
+        0.696969696969697
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Big Boss Stelle",
+      "configId": "Skin_STE_08a",
+      "assetName": "Skin_STE_08a_SkinData",
+      "internalName": "Skin_STE_08a",
+      "spriteName": "Skin_STE_08a_Portrait",
+      "file": "Skin_STE_08a_Portrait__pig.png",
+      "sha256": "f7e2bf283e438db603b0b6fc33653f59c844b5bbddb5ca72b7ee9439b58a653b",
+      "fullFile": "Skin_STE_08a_StoreImage__pig.png",
+      "fullSha256": "6018e270708f7c8a5f0162fb52cfca6a9edbd196b4698e824f8c84efbe73612b",
+      "portraitPixelsPerUnit": 362.74424242424243,
+      "portraitPivot": [
+        0.4790619109757866,
+        0.4584254023488473
+      ],
+      "fullContent": [
+        0.16666666666666666,
+        0.01674641148325359,
+        0.6116427432216905,
+        0.9824561403508771
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Big Boss Stelle B",
+      "configId": "Skin_STE_08b",
+      "assetName": "Skin_STE_08b_SkinData",
+      "internalName": "Skin_STE_08a",
+      "spriteName": "Skin_STE_08b_Portrait",
+      "file": "Skin_STE_08b_Portrait__pig.png",
+      "sha256": "c214651b1e2432113c6a18d2083298cfa52b7fa7aa620b20c7b6ac5989f7ddad",
+      "fullFile": "Skin_STE_08b_StoreImage__pig.png",
+      "fullSha256": "2bcd53909b52d8503defe0be32412bb8b1624b6823e4f3c6121d2162d51325a4",
+      "portraitPixelsPerUnit": 354.55690072639226,
+      "portraitPivot": [
+        0.47011982962027565,
+        0.46925866283582607
+      ],
+      "fullContent": [
+        0.16586921850079744,
+        0.011961722488038277,
+        0.6323763955342903,
+        0.9832535885167464
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Sky High Stelle",
+      "configId": "Skin_STE_09a",
+      "assetName": "Skin_STE_09a_SkinData",
+      "internalName": "Skin_STE_09a",
+      "spriteName": "Skin_STE_09a_Portrait",
+      "file": "Skin_STE_09a_Portrait__pig.png",
+      "sha256": "ffbccda3643f9db179b51120b36bc1d94301e0e39c9dbadfd84482f6cf3a162d",
+      "fullFile": "Skin_STE_09a_StoreImage__pig.png",
+      "fullSha256": "c2569c0f0c1b8b0d0402085e94e6aeca2583f49fd5444495f99fd3a5a9ef9a49",
+      "portraitPixelsPerUnit": 415.8306878306878,
+      "portraitPivot": [
+        0.4993523370716353,
+        0.514252803726488
+      ],
+      "fullContent": [
+        0.008771929824561403,
+        0.02073365231259968,
+        0.9808612440191388,
+        0.970494417862839
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Knockout Stelle",
+      "configId": "Skin_STE_10a",
+      "assetName": "Skin_STE_10a_SkinData",
+      "internalName": "Skin_STE_10a",
+      "spriteName": "Skin_STE_10a_Portrait",
+      "file": "Skin_STE_10a_Portrait__pig.png",
+      "sha256": "ed0c7444dbe34fceb0e9c081181c67aa4ead01860796fcca09a26abed244323e",
+      "fullFile": "Skin_STE_10a_StoreImage__pig.png",
+      "fullSha256": "896ddfc4a7690663cbe28e00909a8978cf72e0a41427a4504aa73050dd4e5718",
+      "portraitPixelsPerUnit": 363.62575941676795,
+      "portraitPivot": [
+        0.497295168219898,
+        0.46345885148085064
+      ],
+      "fullContent": [
+        0.14433811802232854,
+        0.011164274322169059,
+        0.6945773524720893,
+        0.9824561403508771
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Knockout Stelle B",
+      "configId": "Skin_STE_10b",
+      "assetName": "Skin_STE_10b_SkinData",
+      "internalName": "Skin_STE_10b",
+      "spriteName": "Skin_STE_10b_Portrait",
+      "file": "Skin_STE_10b_Portrait__pig.png",
+      "sha256": "3bb8a0114170cfc3e2bf10e8bca21fa49ba461d348fea56437a2ab5482b5fb48",
+      "fullFile": "Skin_STE_10b_StoreImage__pig.png",
+      "fullSha256": "b8c2a8d83d7a9a0732c7f438e8af0a63f0b02d9f8ec9aa6c0c545b50c91bcb8c",
+      "portraitPixelsPerUnit": 343.4070473876063,
+      "portraitPivot": [
+        0.5046194825404392,
+        0.4689683171808899
+      ],
+      "fullContent": [
+        0.18181818181818182,
+        0.008771929824561403,
+        0.6658692185007975,
+        0.9832535885167464
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Heavy Metal Stelle",
+      "configId": "Skin_STE_11a",
+      "assetName": "Skin_STE_11a_SkinData",
+      "internalName": "Skin_STE_11a",
+      "spriteName": "Skin_STE_11a_Portrait",
+      "file": "Skin_STE_11a_Portrait__pig.png",
+      "sha256": "6f2533f76e33e02939e7cc5391d5c7ad6d0d567d8f9f15e6261a79eacc8c2431",
+      "fullFile": "Skin_STE_11a_StoreImage__pig.png",
+      "fullSha256": "9b756e0f06624f8196c8ad0e3a7f37582eddfa95a860cdf8ec7a3d3814a031e2",
+      "portraitPixelsPerUnit": 375.9223300970874,
+      "portraitPivot": [
+        0.49742087456062933,
+        0.46407225035227073
+      ],
+      "fullContent": [
+        0.1419457735247209,
+        0.02073365231259968,
+        0.7376395534290271,
+        0.970494417862839
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Knockout Stelle B",
+      "configId": "Skin_STE_11b",
+      "assetName": "Skin_STE_11b_SkinData",
+      "internalName": "Skin_STE_11b",
+      "spriteName": "Skin_STE_11b_Portrait",
+      "file": "Skin_STE_11b_Portrait__pig.png",
+      "sha256": "8e1ff8cb22e79c1627fd46cafb1404d82b2f55835ce1e474125395296fea8f4b",
+      "fullFile": "Skin_STE_11b_StoreImage__pig.png",
+      "fullSha256": "66b2781251a8b37218dab09e78151644e71a7869093276b2955573f3dc72a29e",
+      "portraitPixelsPerUnit": 363.8058252427184,
+      "portraitPivot": [
+        0.500230814790728,
+        0.4711854105696722
+      ],
+      "fullContent": [
+        0.145933014354067,
+        0.03349282296650718,
+        0.7583732057416268,
+        0.9521531100478469
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Deadly Derby Stelle",
+      "configId": "Skin_STE_12a",
+      "assetName": "Skin_STE_12a_SkinData",
+      "internalName": "Skin_STE_12a",
+      "spriteName": "Skin_STE_12a_Portrait",
+      "file": "Skin_STE_12a_Portrait__pig.png",
+      "sha256": "6c0effc7acc8e5bb920ab3d3d1226ec345b1d72f41dcead2ba9059bde1307807",
+      "fullFile": "Skin_STE_12a_StoreImage__pig.png",
+      "fullSha256": "6679045af7095256b52bd474ca792b8dd30903a3a545d01605e7312ef439f564",
+      "portraitPixelsPerUnit": 359.7669902912621,
+      "portraitPivot": [
+        0.5123275421563618,
+        0.45648681500751
+      ],
+      "fullContent": [
+        0.14513556618819776,
+        0.0215311004784689,
+        0.8349282296650717,
+        0.9657097288676236
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Infiltrator Stelle",
+      "configId": "Skin_STE_13a",
+      "assetName": "Skin_STE_13a_SkinData",
+      "internalName": "Skin_STE_13a",
+      "spriteName": "Skin_STE_13a_Portrait",
+      "file": "Skin_STE_13a_Portrait__pig.png",
+      "sha256": "684d724c939f998cf8a589614ba32affe8846f6a49b86303b6a4c46ccb5d95b5",
+      "fullFile": "Skin_STE_13a_StoreImage__pig.png",
+      "fullSha256": "1782ea851dc083e086c3e5730b59e3dff55f9932c38ac928d7394b3fef816f6c",
+      "portraitPixelsPerUnit": 346.6084848484848,
+      "portraitPivot": [
+        0.4983311584746991,
+        0.4568189067710599
+      ],
+      "fullContent": [
+        0.17384370015948963,
+        0.01674641148325359,
+        0.7001594896331739,
+        0.9712918660287081
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Thrillseeker Stelle",
+      "configId": "Skin_STE_14a",
+      "assetName": "Skin_STE_14a_SkinData",
+      "internalName": "Skin_STE_14a",
+      "spriteName": "Skin_STE_14a_Portrait",
+      "file": "Skin_STE_14a_Portrait__pig.png",
+      "sha256": "3d07d0687047d4028e543b1e01996cbe540ca94df20ace01bff82fbef3b49a30",
+      "fullFile": "Skin_STE_14a_StoreImage_TUI__pig.png",
+      "fullSha256": "595f05fb426174e40d84421ef5b266c3ce49de6265b62377c53f26a297bedf53",
+      "portraitPixelsPerUnit": 347.8734793187348,
+      "portraitPivot": [
+        0.48582104176610513,
+        0.46151002922036344
+      ],
+      "fullContent": [
+        0.17783094098883573,
+        0.019936204146730464,
+        0.7025518341307815,
+        0.9449760765550239
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Big Ideas Stelle",
+      "configId": "Skin_STE_15a",
+      "assetName": "Skin_STE_15a_SkinData",
+      "internalName": "Skin_STE_15a",
+      "spriteName": "Skin_STE_15a_Portrait",
+      "file": "Skin_STE_15a_Portrait__pig.png",
+      "sha256": "3512c0fd505feb2bef61373ffb3403b10dd7bbf8c6c3d747de2f23850549a059",
+      "fullFile": "Skin_STE_15a_StoreImage__pig.png",
+      "fullSha256": "bea524040b92554bee5b9afd969d53f2ea0a1a26d0c29c138ff47a6d79bbdc69",
+      "portraitPixelsPerUnit": 357.15878787878785,
+      "portraitPivot": [
+        0.5136402300517133,
+        0.466947948383355
+      ],
+      "fullContent": [
+        0.045454545454545456,
+        0.04066985645933014,
+        0.9385964912280702,
+        0.9059011164274322
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Kick Back Stelle",
+      "configId": "Skin_STE_16a",
+      "assetName": "Skin_STE_16a_SkinData",
+      "internalName": "Skin_STE_16a",
+      "spriteName": "Skin_STE_16a_Portrait",
+      "file": "Skin_STE_16a_Portrait__pig.png",
+      "sha256": "3ddfa2a1e6aa3e3d8a656191c3c35646aad69d5fb4870ad3a9318ddb265fdcbc",
+      "fullFile": "Skin_STE_16a_StoreImage_TUI__pig.png",
+      "fullSha256": "334aada0c62b127b768b769360f9c548cc0ae10fccf7ee5350b367ce48de94bc",
+      "portraitPixelsPerUnit": 355.0596175478065,
+      "portraitPivot": [
+        0.5153300215463498,
+        0.46930183368227296
+      ],
+      "fullContent": [
+        0.01036682615629984,
+        0.05661881977671451,
+        0.9856459330143541,
+        0.9266347687400319
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Heart Fixer Stelle",
+      "configId": "Skin_STE_17a",
+      "assetName": "Skin_STE_17a_SkinData",
+      "internalName": "Skin_STE_17a",
+      "spriteName": "Skin_STE_17a_Portrait",
+      "file": "Skin_STE_17a_Portrait__pig.png",
+      "sha256": "5d2e931d1658bb44b7690bffdcc0cece8546567c596766b46873940713003ee2",
+      "fullFile": "Skin_STE_17a_StoreImage__pig.png",
+      "fullSha256": "26329915a91519d9d1f5dd9a67dba1601510105aed5cc3f36b6d04330db38e10",
+      "portraitPixelsPerUnit": 384.9297820823245,
+      "portraitPivot": [
+        0.516571667998965,
+        0.4600349100795131
+      ],
+      "fullContent": [
+        0.20893141945773525,
+        0.014354066985645933,
+        0.5869218500797448,
+        0.9792663476874003
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Summer Vacation Stelle",
+      "configId": "Skin_STE_18a",
+      "assetName": "Skin_STE_18a_SkinData",
+      "internalName": "Skin_STE_18a",
+      "spriteName": "Skin_STE_18a_Portrait",
+      "file": "Skin_STE_18a_Portrait__pig.png",
+      "sha256": "0420dfa524397f10ce14361bca6c4497116eceb51432dcfaf20a60f8307c0fc3",
+      "fullFile": "Skin_STE_18a_StoreImage__pig.png",
+      "fullSha256": "948debe361ab250843979fc04bd231dc43dc98ee2a98773fca7bc8d79c6d7a29",
+      "portraitPixelsPerUnit": 422.0444444444445,
+      "portraitPivot": [
+        0.4658182704235335,
+        0.5008938064859118
+      ],
+      "fullContent": [
+        0.03189792663476874,
+        0.03987240829346093,
+        0.9481658692185008,
+        0.9202551834130781
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Spring Bloom Stelle",
+      "configId": "Skin_STE_19a",
+      "assetName": "Skin_STE_19a_SkinData",
+      "internalName": "Skin_STE_19a",
+      "spriteName": "Skin_STE_19a_Portrait",
+      "file": "Skin_STE_19a_Portrait__pig.png",
+      "sha256": "b38a2a97ebb8d13a5bcd37c634f7e0b27079ff1e1a684e0b2648245a68be3a9e",
+      "fullFile": "Skin_STE_19a_StoreImage_TUI__pig.png",
+      "fullSha256": "22bb4ff27f4dd113aeb1447895e8e6b95cf9dd24c8f6fbaeba0b0d42cd65ca19",
+      "portraitPixelsPerUnit": 342.9596412556054,
+      "portraitPivot": [
+        0.4950570729718711,
+        0.5049277290249676
+      ],
+      "fullContent": [
+        0.043859649122807015,
+        0.023923444976076555,
+        0.9082934609250398,
+        0.970494417862839
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Mecha Master Stelle",
+      "configId": "Skin_STE_20a",
+      "assetName": "Skin_STE_20a_SkinData",
+      "internalName": "Skin_STE_20a",
+      "spriteName": "Skin_STE_20a_Portrait",
+      "file": "Skin_STE_20a_Portrait__pig.png",
+      "sha256": "cb896e06a29803cc7686096184703e836ab5ba0c42d44904fb77927f7a7f2255",
+      "fullFile": "Skin_STE_20a_StoreImage__pig.png",
+      "fullSha256": "452a79768eceb3a669a97630079dd8852e8f386c0565a1563c2b6fe54d347cce",
+      "portraitPixelsPerUnit": 352.85714285714283,
+      "portraitPivot": [
+        0.49440718272955114,
+        0.4655918026600593
+      ],
+      "fullContent": [
+        0.07416267942583732,
+        0.03110047846889952,
+        0.8811802232854864,
+        0.9401913875598086
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Stelle",
+      "label": "斯黛尔 · Champion Stelle",
+      "configId": "Skin_STE_22a",
+      "assetName": "Skin_STE_22a_SkinData",
+      "internalName": "Skin_STE_22a",
+      "spriteName": "Skin_STE_22a_Portrait",
+      "file": "Skin_STE_22a_Portrait__pig.png",
+      "sha256": "463a209107c6b3aef5a747086a0e87215c0966ce71e1a4b44c55034fd2adbbc2",
+      "fullFile": "Skin_STE_22a_StoreImage__pig.png",
+      "fullSha256": "856fd08b08d2422261863f041458901d207032ed5669e2ab8d2dc3e06de677cd",
+      "portraitPixelsPerUnit": 379.3510895883777,
+      "portraitPivot": [
+        0.47013141482365384,
+        0.4502241736853691
+      ],
+      "fullContent": [
+        0.03189792663476874,
+        0.015151515151515152,
+        0.9465709728867624,
+        0.967304625199362
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · JUL 01a",
+      "configId": "Skin_JUL_01a",
+      "assetName": "Skin_JUL_01a_SkinData",
+      "internalName": "Skin_JUL_01a",
+      "spriteName": "Skin_JUL_01a_Portrait",
+      "file": "Skin_JUL_01a_Portrait__pig.png",
+      "sha256": "7eb9718b641ff193303c57aefd1a97f60a7ca7a1c73709055459b1b544ba6504",
+      "fullFile": "Skin_JUL_01a_StoreImage__pig.png",
+      "fullSha256": "8e2316ff0c89738fc2ab6a820624e05be81136e3cad7c9c8b67022b1b7fee715",
+      "portraitPixelsPerUnit": 331.4730021598272,
+      "portraitPivot": [
+        0.4921383322826997,
+        0.46702991033444596
+      ],
+      "fullContent": [
+        0.266347687400319,
+        0.008771929824561403,
+        0.5175438596491229,
+        0.9784688995215312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Tempo Jules",
+      "configId": "Skin_JUL_01b",
+      "assetName": "Skin_JUL_01b_SkinData",
+      "internalName": "Skin_JUL_01b",
+      "spriteName": "Skin_JUL_01b_Portrait",
+      "file": "Skin_JUL_01b_Portrait__pig.png",
+      "sha256": "b3b3fd53db618b2307697289a1b36c166b24c08402e92a023a995a5188dc82fa",
+      "fullFile": "Skin_JUL_01b_StoreImage__pig.png",
+      "fullSha256": "d7d780c65ea7e49cdf1891774f32c6f2ec1d50036b979092e9dd6bd6b5e681ca",
+      "portraitPixelsPerUnit": 336.7257019438445,
+      "portraitPivot": [
+        0.495197226327157,
+        0.46295052376671114
+      ],
+      "fullContent": [
+        0.259170653907496,
+        0.007974481658692184,
+        0.5215311004784688,
+        0.981658692185008
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Eshalak Jules A",
+      "configId": "Skin_JUL_02a",
+      "assetName": "Skin_JUL_02a_SkinData",
+      "internalName": "Skin_JUL_02a",
+      "spriteName": "Skin_JUL_02a_Portrait",
+      "file": "Skin_JUL_02a_Portrait__pig.png",
+      "sha256": "4b7113e90af12906242ce6bf9ed1ef5463038743cf4f1e7db985f8d3411aca11",
+      "fullFile": "Skin_JUL_02a_StoreImage__pig.png",
+      "fullSha256": "f376cd3284354c5e9d20d49643102be7a0e14d58ef30394274147f3820361428",
+      "portraitPixelsPerUnit": 331.2292787944026,
+      "portraitPivot": [
+        0.46918794196568825,
+        0.5016858861116976
+      ],
+      "fullContent": [
+        0.07256778309409888,
+        0.019138755980861243,
+        0.879585326953748,
+        0.9346092503987241
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · [RECOLOR] Eshalak Jules B",
+      "configId": "Skin_JUL_02b",
+      "assetName": "Skin_JUL_02b_SkinData",
+      "internalName": "Skin_JUL_02b",
+      "spriteName": "Skin_JUL_02b_Portrait",
+      "file": "Skin_JUL_02b_Portrait__pig.png",
+      "sha256": "0c5f76aca3857aea1e44b6ec393627e55886ee2dc6411ccb1886fd2e488242b4",
+      "fullFile": "Skin_JUL_02b_StoreImage__pig.png",
+      "fullSha256": "2334e205596c091ed771e204bbccd81293f94f9ccc1844317236cec05634d2bc",
+      "portraitPixelsPerUnit": 348.1487964989059,
+      "portraitPivot": [
+        0.49360471000457184,
+        0.4604953426933157
+      ],
+      "fullContent": [
+        0.06379585326953748,
+        0.0215311004784689,
+        0.8700159489633174,
+        0.9449760765550239
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Impeccable Taste Jules",
+      "configId": "Skin_JUL_03a",
+      "assetName": "Skin_JUL_03a_SkinData",
+      "internalName": "Skin_JUL_03a",
+      "spriteName": "Skin_JUL_03a_Portrait",
+      "file": "Skin_JUL_03a_Portrait__pig.png",
+      "sha256": "71a92fd2196a459b12d18642097081f6fc98d19e468eb35f92ac684ef8aa4c4e",
+      "fullFile": "Skin_JUL_03a_StoreImage__pig.png",
+      "fullSha256": "6680e2794067344de2d4aa4340245adf9108e0648585a6fe11bd1931430953f2",
+      "portraitPixelsPerUnit": 372.641059602649,
+      "portraitPivot": [
+        0.5038457069826885,
+        0.45741204305163874
+      ],
+      "fullContent": [
+        0.24720893141945774,
+        0.011164274322169059,
+        0.5933014354066986,
+        0.9752791068580542
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · [RECOLOR] Impeccable Taste Jules B",
+      "configId": "Skin_JUL_03b",
+      "assetName": "Skin_JUL_03b_SkinData",
+      "internalName": "Skin_JUL_03b",
+      "spriteName": "Skin_JUL_03b_Portrait",
+      "file": "Skin_JUL_03b_Portrait__pig.png",
+      "sha256": "a09cd6c9dcf0ca2ecf12d3eec7417b85badb207a0913873a4a4f8e9e5a636460",
+      "fullFile": "Skin_JUL_03b_StoreImage__pig.png",
+      "fullSha256": "ce3a82b7fdb29bfed2672ab6fb93fe65499c1058c69cad1058fbf9738ce15ef4",
+      "portraitPixelsPerUnit": 335.71094580233796,
+      "portraitPivot": [
+        0.4980851922095839,
+        0.4552022264142629
+      ],
+      "fullContent": [
+        0.25598086124401914,
+        0.011164274322169059,
+        0.5414673046251993,
+        0.9768740031897927
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Virtuoso Jules",
+      "configId": "Skin_JUL_04a",
+      "assetName": "Skin_JUL_04a_SkinData",
+      "internalName": "Skin_JUL_04a",
+      "spriteName": "Skin_JUL_04a_Portrait",
+      "file": "Skin_JUL_04a_Portrait__pig.png",
+      "sha256": "2715133dfef1d4ad55a08015162a603d3208b31c02e67c9c94cea670df85e04b",
+      "fullFile": "Skin_JUL_04a_StoreImage__pig.png",
+      "fullSha256": "f71b770681fd937e8b8bd06d4cee86733f214b735d1efedc6e533551bceb37de",
+      "portraitPixelsPerUnit": 325.7435897435898,
+      "portraitPivot": [
+        0.4730043348464401,
+        0.48462611949454054
+      ],
+      "fullContent": [
+        0.09968102073365231,
+        0.022328548644338118,
+        0.8516746411483254,
+        0.9425837320574163
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Daughter Day Jules",
+      "configId": "Skin_JUL_05a",
+      "assetName": "Skin_JUL_05a_SkinData",
+      "internalName": "Skin_JUL_05a",
+      "spriteName": "Skin_JUL_05a_Portrait",
+      "file": "Skin_JUL_05a_Portrait__pig.png",
+      "sha256": "cf4309d2f14bc2e0e640bea4ae50b3d02f2c0ead6ad5a58948c21b622f51679e",
+      "fullFile": "Skin_JUL_05a_StoreImage__pig.png",
+      "fullSha256": "95075bb0fbd01e2b29cf36542de78d7c7d0cd017b73c219bae48f163381cc65f",
+      "portraitPixelsPerUnit": 351.78231292517006,
+      "portraitPivot": [
+        0.4774870075621956,
+        0.41640898783755925
+      ],
+      "fullContent": [
+        0.08452950558213716,
+        0.019138755980861243,
+        0.89792663476874,
+        0.9433811802232854
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Cake Life Jules",
+      "configId": "Skin_JUL_06a",
+      "assetName": "Skin_JUL_06a_SkinData",
+      "internalName": "JUL 06a",
+      "spriteName": "Skin_JUL_06a_Portrait",
+      "file": "Skin_JUL_06a_Portrait__pig.png",
+      "sha256": "bb711e720e3bfa627f81f683cc109137e322793ab9464ca64c58f82ed1d6b8c6",
+      "fullFile": "Skin_JUL_06a_StoreImage__pig.png",
+      "fullSha256": "37bf1a53defd3c2cfc06266c57a2016803f6e7ac078d8c38ea296932e17ebb0e",
+      "portraitPixelsPerUnit": 361.2478839177751,
+      "portraitPivot": [
+        0.4769313770300215,
+        0.4585722302899163
+      ],
+      "fullContent": [
+        0.14832535885167464,
+        0.019936204146730464,
+        0.8054226475279107,
+        0.960127591706539
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Quadruple Agent Jules A",
+      "configId": "Skin_JUL_08a",
+      "assetName": "Skin_JUL_08a_SkinData",
+      "internalName": "Skin_JUL_08a",
+      "spriteName": "Skin_JUL_08a_Portrait",
+      "file": "Skin_JUL_08a_Portrait__pig.png",
+      "sha256": "79070cac37a5bef214341c5c639935ed8a45006c761f0d71e27aed9dd768b5f6",
+      "fullFile": "Skin_JUL_08a_StoreImage__pig.png",
+      "fullSha256": "fc48e706533d21e9fd3cfb9d91518662bca8ab751ab581d80e1fdce0c5a8d12d",
+      "portraitPixelsPerUnit": 332.25531914893617,
+      "portraitPivot": [
+        0.48863212189080046,
+        0.4471139163188435
+      ],
+      "fullContent": [
+        0.2567783094098884,
+        0.0342902711323764,
+        0.5358851674641149,
+        0.9513556618819776
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · No Nonsense Jules",
+      "configId": "Skin_JUL_09a",
+      "assetName": "Skin_JUL_09a_SkinData",
+      "internalName": "Skin_JUL_09a",
+      "spriteName": "Skin_JUL_09a_Portrait",
+      "file": "Skin_JUL_09a_Portrait__pig.png",
+      "sha256": "4829b97471fb4d2ba743825b7fce1b1f92d1426599a398ce6d905316b01e88c5",
+      "fullFile": "Skin_JUL_09a_StoreImage__pig.png",
+      "fullSha256": "e70b3fbada290bde6712b02ad451b704d8a5091208110719d360b1eb887abe2c",
+      "portraitPixelsPerUnit": 331.13340448239063,
+      "portraitPivot": [
+        0.4861833807376693,
+        0.46155312604787413
+      ],
+      "fullContent": [
+        0.044657097288676235,
+        0.012759170653907496,
+        0.9346092503987241,
+        0.9688995215311005
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Lazy Weekend Jules",
+      "configId": "Skin_JUL_10a",
+      "assetName": "Skin_JUL_10a_SkinData",
+      "internalName": "Skin_JUL_10a",
+      "spriteName": "Skin_JUL_10a_Portrait",
+      "file": "Skin_JUL_10a_Portrait__pig.png",
+      "sha256": "6d2d8b9888e8935a50dd40380fe46e36170eaf705ad2750f53e9de8b44129c16",
+      "fullFile": "Skin_JUL_10a_StoreImage__pig.png",
+      "fullSha256": "1e1b1834a8ee981a83998ab03bcd731633b269f4469993cbd1446d4d2320be15",
+      "portraitPixelsPerUnit": 361.7052375152253,
+      "portraitPivot": [
+        0.4898774591222825,
+        0.4691540055986495
+      ],
+      "fullContent": [
+        0.1339712918660287,
+        0.022328548644338118,
+        0.6850079744816587,
+        0.956140350877193
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Lazy Weekend Jules B",
+      "configId": "Skin_JUL_10b",
+      "assetName": "Skin_JUL_10b_SkinData",
+      "internalName": "Skin_JUL_10b",
+      "spriteName": "Skin_JUL_10b_Portrait",
+      "file": "Skin_JUL_10b_Portrait__pig.png",
+      "sha256": "f33b84b2b5f10c4b9947534f89e44d629034a4220da8f3ab5fd45055960d3c44",
+      "fullFile": "Skin_JUL_10b_StoreImage__pig.png",
+      "fullSha256": "56c959276ebc1c421d13db050ff32bf055499586949f096e3f31d44389013c97",
+      "portraitPixelsPerUnit": 353.2862362971985,
+      "portraitPivot": [
+        0.4886759446506866,
+        0.46314934718037487
+      ],
+      "fullContent": [
+        0.12360446570972887,
+        0.007974481658692184,
+        0.6889952153110048,
+        0.9744816586921851
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Kitchen Krusher Jules A",
+      "configId": "Skin_JUL_11a",
+      "assetName": "Skin_JUL_11a_SkinData",
+      "internalName": "Skin_JUL_11a",
+      "spriteName": "Skin_JUL_11a_Portrait",
+      "file": "Skin_JUL_11a_Portrait__pig.png",
+      "sha256": "2c741254b714a9b3b1fce1cee96c47a7c68d62bbf8effe361723beca5591b212",
+      "fullFile": "Skin_JUL_11a_StoreImage__pig.png",
+      "fullSha256": "6cabc0e42d6928b772cbe0715b42b070f51f8e0e213aa36dab93a7638d4344ef",
+      "portraitPixelsPerUnit": 348.7806060606061,
+      "portraitPivot": [
+        0.48417137886037404,
+        0.46258663186892857
+      ],
+      "fullContent": [
+        0.0685805422647528,
+        0.01674641148325359,
+        0.9019138755980861,
+        0.9688995215311005
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · [RECOLOR] Kitchen Krusher Jules B",
+      "configId": "Skin_JUL_11b",
+      "assetName": "Skin_JUL_11b_SkinData",
+      "internalName": "Skin_JUL_11b",
+      "spriteName": "Skin_JUL_11b_Portrait",
+      "file": "Skin_JUL_11b_Portrait__pig.png",
+      "sha256": "3669fe703b99b6363f7ec5d13548388506286c47cd55cd598b0ec1a1d22c3269",
+      "fullFile": "Skin_JUL_11b_StoreImage__pig.png",
+      "fullSha256": "0d27292cf3336ac151b8059c17edfbee5aa1fc85f1ce2e1c303b3b63189071ee",
+      "portraitPixelsPerUnit": 373.6048484848485,
+      "portraitPivot": [
+        0.4898061959305979,
+        0.4601507901986371
+      ],
+      "fullContent": [
+        0.07974481658692185,
+        0.014354066985645933,
+        0.89792663476874,
+        0.967304625199362
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Tasting Menu Jules",
+      "configId": "Skin_JUL_12a",
+      "assetName": "Skin_JUL_12a_SkinData",
+      "internalName": "Skin_JUL_12a",
+      "spriteName": "Skin_JUL_12a_Portrait",
+      "file": "Skin_JUL_12a_Portrait__pig.png",
+      "sha256": "7076088ced2a22d05f9092b2927f797240f91eefd8f4fbde4d64e4105991032b",
+      "fullFile": "Skin_JUL_12a_StoreImage__pig.png",
+      "fullSha256": "78c000a5814d44c8056878dd6face15413119539b52e91d0aa158b8db53a2034",
+      "portraitPixelsPerUnit": 382.5934065934066,
+      "portraitPivot": [
+        0.5147440279019226,
+        0.4552640342114026
+      ],
+      "fullContent": [
+        0.19696969696969696,
+        0.0215311004784689,
+        0.7137161084529505,
+        0.9537480063795853
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Festival Jules",
+      "configId": "Skin_JUL_14a",
+      "assetName": "Skin_JUL_14a_SkinData",
+      "internalName": "Skin_JUL_14a",
+      "spriteName": "Skin_JUL_14a_Portrait",
+      "file": "Skin_JUL_14a_Portrait__pig.png",
+      "sha256": "8fe2221f47869f0fad1ab5806b4ecd57f8a1dc33fbd7f41f03b8e4e80b756d88",
+      "fullFile": "Skin_JUL_14a_StoreImage__pig.png",
+      "fullSha256": "b6aeae8cd1dfd594b804915b8679250cb558b72415bfba9574b8058c109c514e",
+      "portraitPixelsPerUnit": 380.1212121212121,
+      "portraitPivot": [
+        0.4919288579575661,
+        0.4511381760185588
+      ],
+      "fullContent": [
+        0.030303030303030304,
+        0.05741626794258373,
+        0.9393939393939394,
+        0.8779904306220095
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Summer Heat Jules",
+      "configId": "Skin_JUL_15a",
+      "assetName": "Skin_JUL_15a_SkinData",
+      "internalName": "Skin_JUL_15a",
+      "spriteName": "Skin_JUL_15a_Portrait",
+      "file": "Skin_JUL_15a_Portrait__pig.png",
+      "sha256": "0f4c02e3ebb0c7f1d126a166394352ef5c42c0153dd1c6e14aa7fad54b8ff34b",
+      "fullFile": "Skin_JUL_15a_StoreImage__pig.png",
+      "fullSha256": "34424081ec162e1cf8f420803f960ba4e971fb117bb77954e24b6230187cf38b",
+      "portraitPixelsPerUnit": 378.56969696969696,
+      "portraitPivot": [
+        0.5244502440674689,
+        0.4492967957082789
+      ],
+      "fullContent": [
+        0.17384370015948963,
+        0.008771929824561403,
+        0.6515151515151515,
+        0.9784688995215312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Jules",
+      "label": "朱尔斯 · Cyberdiner Jules",
+      "configId": "Skin_JUL_17a",
+      "assetName": "Skin_JUL_17a_SkinData",
+      "internalName": "Skin_JUL_17a",
+      "spriteName": "Skin_JUL_17a_Portrait",
+      "file": "Skin_JUL_17a_Portrait__pig.png",
+      "sha256": "c4040995e1f5af80cea669b9d5a1724aaf697dceabc9623df0b942eaa8f51ff0",
+      "fullFile": "Skin_JUL_17a_StoreImage__pig.png",
+      "fullSha256": "b0fc3cdcffbe3b511b23cbc02850afa72c0d26ff3ef887ec438265cbd84ceed3",
+      "portraitPixelsPerUnit": 353.67653758542144,
+      "portraitPivot": [
+        0.5315668675727422,
+        0.4848275949762582
+      ],
+      "fullContent": [
+        0.16028708133971292,
+        0.019138755980861243,
+        0.7432216905901117,
+        0.9696969696969697
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · DOO 01a",
+      "configId": "Skin_DOO_01a",
+      "assetName": "Skin_DOO_01a_SkinData",
+      "internalName": "Skin_DOO_01a",
+      "spriteName": "Skin_DOO_01a_Portrait",
+      "file": "Skin_DOO_01a_Portrait__pig.png",
+      "sha256": "13954fad823406094b6e4d9b3ab915b6345903bc52c619a905b96e07fa11aee2",
+      "fullFile": "Skin_DOO_01a_StoreImage__pig.png",
+      "fullSha256": "4641a0d8f1f3c50c678c2c314efb9f6e690ea9f5d1282640c0b9e8332e93d1eb",
+      "portraitPixelsPerUnit": 357.8623103850642,
+      "portraitPivot": [
+        0.5267061389551103,
+        0.49578943646375934
+      ],
+      "fullContent": [
+        0.09330143540669857,
+        0.02631578947368421,
+        0.8572567783094099,
+        0.9473684210526315
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Jolly Dooley",
+      "configId": "Skin_DOO_01b",
+      "assetName": "Skin_DOO_01b_SkinData",
+      "internalName": "Skin_DOO_01b",
+      "spriteName": "Skin_DOO_01b_Portrait",
+      "file": "Skin_DOO_01b_Portrait__pig.png",
+      "sha256": "d433a057ab064ac80cdd835c6394ceee23cae22e4128668076cfcb3fec305f80",
+      "fullFile": "Skin_DOO_01b_StoreImage__pig.png",
+      "fullSha256": "453ae5ee473e3e3d6c355ea257586863049415c835c933d53208e71dfd4ba045",
+      "portraitPixelsPerUnit": 329.4967741935484,
+      "portraitPivot": [
+        0.5353835468436487,
+        0.4695915007459999
+      ],
+      "fullContent": [
+        0.11483253588516747,
+        0.02711323763955343,
+        0.8405103668261563,
+        0.9298245614035088
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Rebel Dooley",
+      "configId": "Skin_DOO_02a",
+      "assetName": "Skin_DOO_02a_SkinData",
+      "internalName": "Skin_DOO_02a",
+      "spriteName": "Skin_DOO_02a_Portrait",
+      "file": "Skin_DOO_02a_Portrait__pig.png",
+      "sha256": "17320f61d59e8aab4680204ed8141f5f379d2c11f92808de53e4b3cf4c8329ce",
+      "fullFile": "Skin_DOO_02a_StoreImage__pig.png",
+      "fullSha256": "4f728c026ee0a66d3cb6970f8530fce36c453ed9b79d217b0974ca6ba0c93217",
+      "portraitPixelsPerUnit": 358.48504983388705,
+      "portraitPivot": [
+        0.4949742220244056,
+        0.47431806259835635
+      ],
+      "fullContent": [
+        0.14992025518341306,
+        0.037480063795853266,
+        0.7185007974481659,
+        0.9433811802232854
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Rebel Dooley B",
+      "configId": "Skin_DOO_02b",
+      "assetName": "Skin_DOO_02b_SkinData",
+      "internalName": "Skin_DOO_02b",
+      "spriteName": "Skin_DOO_02b_Portrait",
+      "file": "Skin_DOO_02b_Portrait__pig.png",
+      "sha256": "7319ee659db4dc58dc374c0e01173b69043c1db1574b0d6bd23bb2b7db314051",
+      "fullFile": "Skin_DOO_02b_StoreImage__pig.png",
+      "fullSha256": "5e987af7f25f64aae0f3bad56e581881a06fd18ae844853b107d0939b0feeae0",
+      "portraitPixelsPerUnit": 371.66777408637876,
+      "portraitPivot": [
+        0.5166165943399725,
+        0.485604868407806
+      ],
+      "fullContent": [
+        0.16028708133971292,
+        0.023125996810207338,
+        0.6762360446570973,
+        0.9545454545454546
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Star Hero Dooley",
+      "configId": "Skin_DOO_03a",
+      "assetName": "Skin_DOO_03a_SkinData",
+      "internalName": "Skin_DOO_03a",
+      "spriteName": "Skin_DOO_03a_Portrait",
+      "file": "Skin_DOO_03a_Portrait__pig.png",
+      "sha256": "814d9f799d7a7b093399ece31118a14751a016fca22d32c8a20cede26d0fc932",
+      "fullFile": "Skin_DOO_03a_StoreImage__pig.png",
+      "fullSha256": "44660f44e6583597072c8f787295acb48b05f5569c511181bb3f8077d3d0bde6",
+      "portraitPixelsPerUnit": 337.2009685230024,
+      "portraitPivot": [
+        0.5037217465852613,
+        0.47356449675807394
+      ],
+      "fullContent": [
+        0.09330143540669857,
+        0.011164274322169059,
+        0.8580542264752791,
+        0.9681020733652312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Audiophile Dooley",
+      "configId": "Skin_DOO_04a",
+      "assetName": "Skin_DOO_04a_SkinData",
+      "internalName": "Skin_DOO_04a",
+      "spriteName": "Skin_DOO_04a_Portrait",
+      "file": "Skin_DOO_04a_Portrait__pig.png",
+      "sha256": "eb8deacb7e6d7b1daac8dd9d2381b9478b047cb848b1549bb2f606d33e569a7b",
+      "fullFile": "Skin_DOO_04a_StoreImage__pig.png",
+      "fullSha256": "201d82c4d0195ad37f5db14c6c6da17d97c3de8182c757a684ccd5e12ab70129",
+      "portraitPixelsPerUnit": 332.7701283547258,
+      "portraitPivot": [
+        0.49222743928879165,
+        0.49206553032629313
+      ],
+      "fullContent": [
+        0.07256778309409888,
+        0.06299840510366826,
+        0.8835725677830941,
+        0.8604465709728868
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Foreman Dooley",
+      "configId": "Skin_DOO_04b",
+      "assetName": "Skin_DOO_04b_SkinData",
+      "internalName": "Skin_DOO_04b",
+      "spriteName": "Skin_DOO_04b_Portrait",
+      "file": "Skin_DOO_04b_Portrait__pig.png",
+      "sha256": "32d1dc2e3ab619af04417ce09c2a97847ae61f64bcbd0151dd7ba1aec9bef6c9",
+      "fullFile": "Skin_DOO_04b_StoreImage__pig.png",
+      "fullSha256": "624067f0b9c558040f52b2cbc9da4aaf0453c989ca29b0dbb64f2692b6e2d05e",
+      "portraitPixelsPerUnit": 327.98185941043084,
+      "portraitPivot": [
+        0.4971845197409107,
+        0.4960127591706539
+      ],
+      "fullContent": [
+        0.04704944178628389,
+        0.0215311004784689,
+        0.9370015948963317,
+        0.9258373205741627
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Mech King Dooley",
+      "configId": "Skin_DOO_05a",
+      "assetName": "Skin_DOO_05a_SkinData",
+      "internalName": "Skin_DOO_05a",
+      "spriteName": "Skin_DOO_05a_Portrait",
+      "file": "Skin_DOO_05a_Portrait__pig.png",
+      "sha256": "88dcd3d7d190933b7d0f7b36e0c8463b53b91aca265035d19145d9696b3f46ce",
+      "fullFile": "Skin_DOO_05a_StoreImage__pig.png",
+      "fullSha256": "fd944030d937157b1dbddf9c4c64e8a35ccedfefd5bd0df5924a5eb737c9fb1e",
+      "portraitPixelsPerUnit": 316.1880877742947,
+      "portraitPivot": [
+        0.5022036067655602,
+        0.5042872213306135
+      ],
+      "fullContent": [
+        0.20494417862838915,
+        0.013556618819776715,
+        0.6188197767145136,
+        0.9696969696969697
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Whole Squad Dooley",
+      "configId": "Skin_DOO_06a",
+      "assetName": "Skin_DOO_06a_SkinData",
+      "internalName": "DOO 06a",
+      "spriteName": "Skin_DOO_06a_Portrait",
+      "file": "Skin_DOO_06a_Portrait__pig.png",
+      "sha256": "6c01d993bb27bea83ab0f0d15507bbf87832ead502f3a390116407fcfd0e525a",
+      "fullFile": "Skin_DOO_06a_StoreImage__pig.png",
+      "fullSha256": "788fd9cc6f2bbc15faa6434db8d48d8ca0bf0691a584a317cfad86099c05b47e",
+      "portraitPixelsPerUnit": 368.1460234680574,
+      "portraitPivot": [
+        0.5380680128672992,
+        0.5216142762975948
+      ],
+      "fullContent": [
+        0.24880382775119617,
+        0.011164274322169059,
+        0.5964912280701754,
+        0.970494417862839
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Wrecking Ball Dooley B",
+      "configId": "Skin_DOO_07a",
+      "assetName": "Skin_DOO_07a_SkinData",
+      "internalName": "Skin_DOO_07a",
+      "spriteName": "Skin_DOO_07a_Portrait",
+      "file": "Skin_DOO_07a_Portrait__pig.png",
+      "sha256": "aa35dd52dd35768b60b213c5bd38153441fdd930aa6430f78b800674d09bd072",
+      "fullFile": "Skin_DOO_07a_StoreImage__pig.png",
+      "fullSha256": "1931fe045d6f718900fbe39964b42b2bebe4b753dd1113bc91bba5663757b4cb",
+      "portraitPixelsPerUnit": 334.11563169164884,
+      "portraitPivot": [
+        0.5214166914268346,
+        0.483461915446588
+      ],
+      "fullContent": [
+        0.023923444976076555,
+        0.06140350877192982,
+        0.9633173843700159,
+        0.8389154704944178
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Wrecking Ball Dooley",
+      "configId": "Skin_DOO_07b",
+      "assetName": "Skin_DOO_07b_SkinData",
+      "internalName": "Skin_DOO_07b",
+      "spriteName": "Skin_DOO_07b_Portrait",
+      "file": "Skin_DOO_07b_Portrait__pig.png",
+      "sha256": "0c450f9c29aacf65b4416f05e3d18af8dfaefa72f18ea312d4bdea88b20b1ef6",
+      "fullFile": "Skin_DOO_07b_StoreImage__pig.png",
+      "fullSha256": "9e75af733eaad301db0d02ff31b8c02f6e93d1d50ca8f3be344d4e5eecf94271",
+      "portraitPixelsPerUnit": 334.0220318237454,
+      "portraitPivot": [
+        0.5094517617064804,
+        0.4753737855264622
+      ],
+      "fullContent": [
+        0.0215311004784689,
+        0.07814992025518341,
+        0.960127591706539,
+        0.8596491228070176
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Electric Sheep Dooley",
+      "configId": "Skin_DOO_08a",
+      "assetName": "Skin_DOO_08a_SkinData",
+      "internalName": "Skin_DOO_08a",
+      "spriteName": "Skin_DOO_08a_Portrait",
+      "file": "Skin_DOO_08a_Portrait__pig.png",
+      "sha256": "e9fc154dbf5635efa5383c97f91af581b0b1ca8502521ab4b69d17e10a82cc8b",
+      "fullFile": "Skin_DOO_08a_StoreImage__pig.png",
+      "fullSha256": "cfe643ba24ec19e6e77a6e163fed6ff1af08d2466fabdfca0b8385a0a6a7d38a",
+      "portraitPixelsPerUnit": 352.5042424242425,
+      "portraitPivot": [
+        0.4864641631627277,
+        0.4593320767483447
+      ],
+      "fullContent": [
+        0.04784688995215311,
+        0.0430622009569378,
+        0.930622009569378,
+        0.9043062200956937
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Electric Sheep Dooley",
+      "configId": "Skin_DOO_08b",
+      "assetName": "Skin_DOO_08b_SkinData",
+      "internalName": "Skin_DOO_08b",
+      "spriteName": "Skin_DOO_08b_Portrait",
+      "file": "Skin_DOO_08b_Portrait__pig.png",
+      "sha256": "2820189b1b63d09453368c43f1d0098308e28994bde282ac6ccd04ef5ce535f8",
+      "fullFile": "Skin_DOO_08b_StoreImage__pig.png",
+      "fullSha256": "f0dfd14b25c3ab607dcfdfb61d0f7152f8aebcdf513ce1d261a72c94e72df533",
+      "portraitPixelsPerUnit": 345.27339003645204,
+      "portraitPivot": [
+        0.48622245993864593,
+        0.475448673600493
+      ],
+      "fullContent": [
+        0.03349282296650718,
+        0.019936204146730464,
+        0.9457735247208932,
+        0.9449760765550239
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Inspector Dooley B",
+      "configId": "Skin_DOO_09a",
+      "assetName": "Skin_DOO_09a_SkinData",
+      "internalName": "Skin_DOO_09a",
+      "spriteName": "Skin_DOO_09a_Portrait",
+      "file": "Skin_DOO_09a_Portrait__pig.png",
+      "sha256": "4ade8cb35743e34b6e383f4e9793e337ad64714f8ccb3af817898c52d951dba5",
+      "fullFile": "Skin_DOO_09a_StoreImage__pig.png",
+      "fullSha256": "f38847b04a5dbcd4ecbcdb55d63582f4769a723690fe7c00083f2e682c65c1c9",
+      "portraitPixelsPerUnit": 365.9805825242718,
+      "portraitPivot": [
+        0.5311827395054274,
+        0.4630638268221303
+      ],
+      "fullContent": [
+        0.009569377990430622,
+        0.04704944178628389,
+        0.9904306220095693,
+        0.930622009569378
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Inspector Dooley",
+      "configId": "Skin_DOO_09b",
+      "assetName": "Skin_DOO_09b_SkinData",
+      "internalName": "Skin_DOO_09b",
+      "spriteName": "Skin_DOO_09b_Portrait",
+      "file": "Skin_DOO_09b_Portrait__pig.png",
+      "sha256": "85a53ad12698e452f8511b0316f62edd096c08066a40683e95a0a9f9c79035d0",
+      "fullFile": "Skin_DOO_09b_StoreImage__pig.png",
+      "fullSha256": "0e50c9945837604543ec5d2f5e4382feb79560d938a65ec06fc8a485c72f4e1e",
+      "portraitPixelsPerUnit": 356.8484848484849,
+      "portraitPivot": [
+        0.5271253201875211,
+        0.4652989222367213
+      ],
+      "fullContent": [
+        0.0,
+        0.027910685805422646,
+        1.0,
+        0.960127591706539
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Lovebot Dooley",
+      "configId": "Skin_DOO_10a",
+      "assetName": "Skin_DOO_10a_SkinData",
+      "internalName": "Skin_DOO_10a",
+      "spriteName": "Skin_DOO_10a_Portrait",
+      "file": "Skin_DOO_10a_Portrait__pig.png",
+      "sha256": "99733c63384370b38b9b1afc24f0c9f4c24eebb79510885fbeb9b3b98e28c7e7",
+      "fullFile": "Skin_DOO_10a_StoreImage__pig.png",
+      "fullSha256": "4847f91e138d86bfac2c20fdd87b3d94f5617e3063e9040e0a1c1a2e8f7c4f00",
+      "portraitPixelsPerUnit": 341.6338028169014,
+      "portraitPivot": [
+        0.48350349304759976,
+        0.4961419233101961
+      ],
+      "fullContent": [
+        0.12121212121212122,
+        0.023923444976076555,
+        0.7727272727272727,
+        0.9593301435406698
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Founder Dooley",
+      "configId": "Skin_DOO_11a",
+      "assetName": "Skin_DOO_11a_SkinData",
+      "internalName": "Skin_DOO_11a",
+      "spriteName": "Skin_DOO_11a_Portrait",
+      "file": "Skin_DOO_11a_Portrait__pig.png",
+      "sha256": "6ec7272a0347ff6dce801700e726868af9ffdcd4387433aa533d9e66b2148bef",
+      "fullFile": "Skin_DOO_11a_full__pig.png",
+      "fullSha256": "a107d65074ae51ba24b3e32f165488bb0ac322aae3647b5bd37778842d5d1e59",
+      "portraitPixelsPerUnit": 352.5042424242425,
+      "portraitPivot": [
+        0.49905224493741235,
+        0.47657532260403074
+      ],
+      "fullContent": [
+        0.05661881977671451,
+        0.04864433811802233,
+        0.9082934609250398,
+        0.905103668261563
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Ultimate Core Dooley",
+      "configId": "Skin_DOO_12a",
+      "assetName": "Skin_DOO_12a_SkinData",
+      "internalName": "Skin_DOO_12a",
+      "spriteName": "Skin_DOO_12a_Portrait",
+      "file": "Skin_DOO_12a_Portrait__pig.png",
+      "sha256": "29febe77e408e0fb910f5b4e111d2341a303d3ab2bdfffa3b4d5df4f76b3fa7f",
+      "fullFile": "Skin_DOO_12a_StoreImage__pig.png",
+      "fullSha256": "d8e9c2d64320db0dd3665e1e3a4c28733b2004fa995eacf92ad07f97ce9af196",
+      "portraitPixelsPerUnit": 362.66666666666663,
+      "portraitPivot": [
+        0.48086124401913877,
+        0.5666533758639022
+      ],
+      "fullContent": [
+        0.003987240829346092,
+        0.05582137161084529,
+        0.9960127591706539,
+        0.9082934609250398
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · E-Bunny Dooley",
+      "configId": "Skin_DOO_13a",
+      "assetName": "Skin_DOO_13a_SkinData",
+      "internalName": "Skin_DOO_13a",
+      "spriteName": "Skin_DOO_13a_Portrait",
+      "file": "Skin_DOO_13a_Portrait__pig.png",
+      "sha256": "db5893f1aaaa340572b8ecbb2f54d2dd56ad925dff83a3e7641e6ed3b5865073",
+      "fullFile": "Skin_DOO_13a_StoreImage__pig.png",
+      "fullSha256": "cb2f9d457a0e06f031b64c2326aa00111194777ce66173143f8af7679b0393b5",
+      "portraitPixelsPerUnit": 333.81497797356826,
+      "portraitPivot": [
+        0.48883572567783096,
+        0.5261050102227937
+      ],
+      "fullContent": [
+        0.03588516746411483,
+        0.07097288676236045,
+        0.9266347687400319,
+        0.8859649122807017
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · E-Bunny Dooley  (Top 100)",
+      "configId": "Skin_DOO_13b",
+      "assetName": "Skin_DOO_13b_SkinData",
+      "internalName": "Skin_DOO_13b",
+      "spriteName": "Skin_DOO_13b_Portrait",
+      "file": "Skin_DOO_13b_Portrait__pig.png",
+      "sha256": "b419830698cb703c239cc42291eac4cd2324dedeccb44836c598722c6489bc69",
+      "fullFile": "Skin_DOO_13b_StoreImage__pig.png",
+      "fullSha256": "f52ec5b411a800ef8d5622d82fc8a2fac37b1c5f97d529f9420e8c97b84a1654",
+      "portraitPixelsPerUnit": 338.04405286343615,
+      "portraitPivot": [
+        0.49853288858911393,
+        0.5154580233121852
+      ],
+      "fullContent": [
+        0.019936204146730464,
+        0.06220095693779904,
+        0.9609250398724083,
+        0.8771929824561403
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · War Rig Dooley",
+      "configId": "Skin_DOO_14a",
+      "assetName": "Skin_DOO_14a_SkinData",
+      "internalName": "Skin_DOO_14a",
+      "spriteName": "Skin_DOO_14a_Portrait",
+      "file": "Skin_DOO_14a_Portrait__pig.png",
+      "sha256": "45f2619216e13698a7635a8490f678c0fa19e2c39cb477a283638502eaa70ba0",
+      "fullFile": "Skin_DOO_14a_StoreImage__pig.png",
+      "fullSha256": "b31580c13687ccf720422ad981598a6296586d440fb644c33c76ffa255f1baf5",
+      "portraitPixelsPerUnit": 384.0,
+      "portraitPivot": [
+        0.5318979266347688,
+        0.4621212121212121
+      ],
+      "fullContent": [
+        0.007974481658692184,
+        0.051834130781499205,
+        0.9864433811802232,
+        0.9074960127591707
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Splashdown Dooley",
+      "configId": "Skin_DOO_15a",
+      "assetName": "Skin_DOO_15a_SkinData",
+      "internalName": "Skin_DOO_15a",
+      "spriteName": "Skin_DOO_15a_Portrait",
+      "file": "Skin_DOO_15a_Portrait__pig.png",
+      "sha256": "6e8ee9c2b162ad955d4071a693a85b035c6008f6dcecfb26381d7430401ec678",
+      "fullFile": "Skin_DOO_15a_StoreImage__pig.png",
+      "fullSha256": "75c81a5bee201f32f98918d8cd033d69c1b82cad3bc6998c08f815ba045e5eb1",
+      "portraitPixelsPerUnit": 342.14506539833536,
+      "portraitPivot": [
+        0.501065792792434,
+        0.5004797963994408
+      ],
+      "fullContent": [
+        0.015151515151515152,
+        0.044657097288676235,
+        0.967304625199362,
+        0.9003189792663477
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Splashdown Dooley (Top 10)",
+      "configId": "Skin_DOO_15b",
+      "assetName": "Skin_DOO_15b_SkinData",
+      "internalName": "Skin_DOO_15b",
+      "spriteName": "Skin_DOO_15b_Portrait",
+      "file": "Skin_DOO_15b_Portrait__pig.png",
+      "sha256": "7646065fd40eee0332546f6332e2ad444c963ca13a4d86f617cd19cbc7672db7",
+      "fullFile": "Skin_DOO_15b_StoreImage__pig.png",
+      "fullSha256": "8d4380f2f9330d93235cbdcf2518c44202c6d46f666f69b79e942a73f1efde4b",
+      "portraitPixelsPerUnit": 330.2734839476813,
+      "portraitPivot": [
+        0.5010288124375364,
+        0.488079998938
+      ],
+      "fullContent": [
+        0.007974481658692184,
+        0.03508771929824561,
+        0.9800637958532695,
+        0.9433811802232854
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Jungle Rover Dooley",
+      "configId": "Skin_DOO_16a",
+      "assetName": "Skin_DOO_16a_SkinData",
+      "internalName": "Skin_DOO_16a",
+      "spriteName": "Skin_DOO_16a_Portrait",
+      "file": "Skin_DOO_16a_Portrait__pig.png",
+      "sha256": "6374f573ff80dfd93c0899895c67df68b5424100a25de0af274b7f0a61c7f4ca",
+      "fullFile": "Skin_DOO_16a_StoreImage__pig.png",
+      "fullSha256": "c455eeb2691e0c9660d81967ed80815b61059d967bce2a17af0337d9b33a19bc",
+      "portraitPixelsPerUnit": 333.42705005324814,
+      "portraitPivot": [
+        0.5250478553824779,
+        0.4867584538847361
+      ],
+      "fullContent": [
+        0.01594896331738437,
+        0.03827751196172249,
+        0.9760765550239234,
+        0.916267942583732
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Shrewd Trader Dooley",
+      "configId": "Skin_DOO_17a",
+      "assetName": "Skin_DOO_17a_SkinData",
+      "internalName": "Skin_DOO_17a",
+      "spriteName": "Skin_DOO_17a_Portrait",
+      "file": "Skin_DOO_17a_Portrait__pig.png",
+      "sha256": "fc0b258e9c6ba51ee276075d3a745513bbdf57d2005251b9156ea599e498b498",
+      "fullFile": "Skin_DOO_17a_StoreImage__pig.png",
+      "fullSha256": "5c9883f7493272d11b336c2cd0f407397fe8908e08f2aed1a3802b08f76932e6",
+      "portraitPixelsPerUnit": 351.15396578538105,
+      "portraitPivot": [
+        0.49749107676585785,
+        0.48772760758109046
+      ],
+      "fullContent": [
+        0.1810207336523126,
+        0.046251993620414676,
+        0.7049441786283892,
+        0.8899521531100478
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Super Dooley",
+      "configId": "Skin_DOO_18a",
+      "assetName": "Skin_DOO_18a_SkinData",
+      "internalName": "Skin_DOO_18a",
+      "spriteName": "Skin_DOO_18a_Portrait",
+      "file": "Skin_DOO_18a_Portrait__pig.png",
+      "sha256": "6f06fc9c1500d35dd3ab80108bd9a2ae1e4f7446152fbf8043edd76b8732cf96",
+      "fullFile": "Skin_DOO_18a_StoreImage__pig.png",
+      "fullSha256": "5b4fa6f43fee325d7894cb6e3f1b4cac86fb5c114572e1213cd25b765a2471bc",
+      "portraitPixelsPerUnit": 356.02442002442,
+      "portraitPivot": [
+        0.48958302905671325,
+        0.4496526864947918
+      ],
+      "fullContent": [
+        0.007974481658692184,
+        0.10925039872408293,
+        0.9848484848484849,
+        0.6634768740031898
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Handyman Dooley",
+      "configId": "Skin_DOO_19a",
+      "assetName": "Skin_DOO_19a_SkinData",
+      "internalName": "Skin_DOO_19a",
+      "spriteName": "Skin_DOO_19a_Portrait",
+      "file": "Skin_DOO_19a_Portrait__pig.png",
+      "sha256": "305e10eb7e129494845d10535a90f4489cc9f00571841d4d6ca9431a478812ab",
+      "fullFile": "Skin_DOO_19a_StoreImage__pig.png",
+      "fullSha256": "fc6d1732a64faab36982fa892874b1c3c9aedddb294132ae736241eeed9a748d",
+      "portraitPixelsPerUnit": 333.48115299334813,
+      "portraitPivot": [
+        0.5031164132867949,
+        0.5501976822726036
+      ],
+      "fullContent": [
+        0.009569377990430622,
+        0.07496012759170653,
+        0.9681020733652312,
+        0.8851674641148325
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Mystic Legend Dooley",
+      "configId": "Skin_DOO_20a",
+      "assetName": "Skin_DOO_20a_SkinData",
+      "internalName": "Skin_DOO_20a",
+      "spriteName": "Skin_DOO_20a_Portrait",
+      "file": "Skin_DOO_20a_Portrait__pig.png",
+      "sha256": "7b3f6de331253a1902bcf2863878484e7b5ec7eb3505f531f810115e5d02ec7c",
+      "fullFile": "Skin_DOO_20a_StoreImage__pig.png",
+      "fullSha256": "fc78e403a04ea6a05aa85341b1c0c80eeaad83f8410eaa29d46a2bb67b08fe9e",
+      "portraitPixelsPerUnit": 342.8915145005371,
+      "portraitPivot": [
+        0.5396411397598576,
+        0.4661345777293541
+      ],
+      "fullContent": [
+        0.04704944178628389,
+        0.06299840510366826,
+        0.9234449760765551,
+        0.879585326953748
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Flower Child Dooley",
+      "configId": "Skin_DOO_21a",
+      "assetName": "Skin_DOO_21a_SkinData",
+      "internalName": "Skin_DOO_21a",
+      "spriteName": "Skin_DOO_21a_Portrait",
+      "file": "Skin_DOO_21a_Portrait__pig.png",
+      "sha256": "ae6a8256b8e79b5ffa0b0cfc7328c20321bda3baa3652af719338424e3f8ed5f",
+      "fullFile": "Skin_DOO_21a_StoreImage__pig.png",
+      "fullSha256": "e61310a00da66f6e5da2e700ce838c5136d44ed7bc09bb50d01cca39fb2fc821",
+      "portraitPixelsPerUnit": 328.23762376237624,
+      "portraitPivot": [
+        0.500684936914744,
+        0.4892423452871603
+      ],
+      "fullContent": [
+        0.10446570972886762,
+        0.0,
+        0.7910685805422647,
+        0.9856459330143541
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · Primal Dooley",
+      "configId": "Skin_DOO_22a",
+      "assetName": "Skin_DOO_22a_SkinData",
+      "internalName": "Skin_DOO_22a",
+      "spriteName": "Skin_DOO_22a_Portrait",
+      "file": "Skin_DOO_22a_Portrait__pig.png",
+      "sha256": "3cbfec34782e6b44807de469128eab3928befd7dcf599b71ea0cc1700d678c86",
+      "fullFile": "Skin_DOO_22a_StoreImage__pig.png",
+      "fullSha256": "05c5d2a6b4909af5babc651003bbbd0f7d4e023e11d8162ef18ac4c1ee35fe8b",
+      "portraitPixelsPerUnit": 373.2945454545454,
+      "portraitPivot": [
+        0.5063955342902711,
+        0.46340437871538354
+      ],
+      "fullContent": [
+        0.007177033492822967,
+        0.04226475279106858,
+        0.9800637958532695,
+        0.9441786283891547
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Dooley",
+      "label": "多利 · High Flyer Dooley",
+      "configId": "Skin_DOO_23a",
+      "assetName": "Skin_DOO_23a_SkinData",
+      "internalName": "Skin_DOO_23a",
+      "spriteName": "Skin_DOO_23a_Portrait",
+      "file": "Skin_DOO_23a_Portrait__pig.png",
+      "sha256": "19428f9e675499ac8224e044f77f87610e1cf397741d11774480a9880f5ee2a4",
+      "fullFile": "Skin_DOO_23a_StoreImage__pig.png",
+      "fullSha256": "195926785980f5d649445aa32d8016c145e147bd1d628b661d7212d26493d107",
+      "portraitPixelsPerUnit": 379.4974874371859,
+      "portraitPivot": [
+        0.45253580502191976,
+        0.45039792262749156
+      ],
+      "fullContent": [
+        0.10925039872408293,
+        0.04226475279106858,
+        0.8500797448165869,
+        0.9322169059011164
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · MAK 01a",
+      "configId": "Skin_MAK_01a",
+      "assetName": "Skin_MAK_01a_SkinData",
+      "internalName": "Skin_MAK_01a",
+      "spriteName": "Skin_MAK_01a_Portrait",
+      "file": "Skin_MAK_01a_Portrait__pig.png",
+      "sha256": "9469e5cd9c31476e6fbe65db52567fb47800fe772630c463c43f6e43f57eb1fd",
+      "fullFile": "Skin_MAK_01a_StoreImage__pig.png",
+      "fullSha256": "4b23c6dea2636a63ddd192787e16c6c670fbb36eb346a4ae2db98597e9c9c6a3",
+      "portraitPixelsPerUnit": 345.9622641509434,
+      "portraitPivot": [
+        0.5274160422497066,
+        0.47020195750955435
+      ],
+      "fullContent": [
+        0.2679425837320574,
+        0.022328548644338118,
+        0.45933014354066987,
+        0.9545454545454546
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Mystic Master Mak A",
+      "configId": "Skin_MAK_02a",
+      "assetName": "Skin_MAK_02a_SkinData",
+      "internalName": "Skin_MAK_02a",
+      "spriteName": "Skin_MAK_02a_Portrait",
+      "file": "Skin_MAK_02a_Portrait__pig.png",
+      "sha256": "9cc264a07bc25c33a02eccc9948d63673d03d930d40f5780abe1ed224345581d",
+      "fullFile": "Skin_MAK_02a_StoreImage__pig.png",
+      "fullSha256": "37f38d9d0d88fa58fb881465e52c9159b5700d3a7c83f02698f1e895118a352a",
+      "portraitPixelsPerUnit": 341.43689320388347,
+      "portraitPivot": [
+        0.49481513525649956,
+        0.4793892553537418
+      ],
+      "fullContent": [
+        0.11802232854864433,
+        0.023125996810207338,
+        0.7623604465709729,
+        0.9609250398724083
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Mystic Master Mak B",
+      "configId": "Skin_MAK_02b",
+      "assetName": "Skin_MAK_02b_SkinData",
+      "internalName": "Skin_MAK_02b",
+      "spriteName": "Skin_MAK_02b_Portrait",
+      "file": "Skin_MAK_02b_Portrait__pig.png",
+      "sha256": "acbce4c2471b8681fd9702889e6e147a19fcaae53de6283cb83d3dd76ffa6c06",
+      "fullFile": "Skin_MAK_02b_StoreImage__pig.png",
+      "fullSha256": "fc8d3de53e0efdf2eaebf1e24e67040f232ee616fe662eb40c9d9db9a55b5f0f",
+      "portraitPixelsPerUnit": 363.544794188862,
+      "portraitPivot": [
+        0.4983249726782287,
+        0.44376156106753784
+      ],
+      "fullContent": [
+        0.11642743221690591,
+        0.011961722488038277,
+        0.7679425837320574,
+        0.9712918660287081
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Quiet Wisdom Mak",
+      "configId": "Skin_MAK_03a",
+      "assetName": "Skin_MAK_03a_SkinData",
+      "internalName": "Skin_MAK_03a",
+      "spriteName": "Skin_MAK_03a_Portrait",
+      "file": "Skin_MAK_03a_Portrait__pig.png",
+      "sha256": "8f7fe91abcb59cb717ba3c2b592257bec3d753ed9dbfb2268ab32cf4257e86b8",
+      "fullFile": "Skin_MAK_03a_StoreImage__pig.png",
+      "fullSha256": "012af1d167c4ac42bafadf9dfa8683fd2c43b6b095e0805e93232816206f673a",
+      "portraitPixelsPerUnit": 333.0813186813187,
+      "portraitPivot": [
+        0.5074898785425102,
+        0.4761361445571972
+      ],
+      "fullContent": [
+        0.2783094098883573,
+        0.018341307814992026,
+        0.5159489633173844,
+        0.9609250398724083
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Quiet Wisdom Mak  (Top 100)",
+      "configId": "Skin_MAK_04a",
+      "assetName": "Skin_MAK_04a_SkinData",
+      "internalName": "Skin_MAK_04a",
+      "spriteName": "Skin_MAK_04a_Portrait",
+      "file": "Skin_MAK_04a_Portrait__pig.png",
+      "sha256": "ab208825cc035f198f9029bc8816df3c1035deacbf3c4f0a8e9418c5d260f708",
+      "fullFile": "Skin_MAK_04a_StoreImage__pig.png",
+      "fullSha256": "a3fd56cda05a087434601af92cde46db203ea436a665ee19fc1f74e584e563cf",
+      "portraitPixelsPerUnit": 368.2916160388822,
+      "portraitPivot": [
+        0.5191460231269658,
+        0.4498576608316328
+      ],
+      "fullContent": [
+        0.259170653907496,
+        0.017543859649122806,
+        0.48086124401913877,
+        0.9617224880382775
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Alchemical Rigor Mak",
+      "configId": "Skin_MAK_05a",
+      "assetName": "Skin_MAK_05a_SkinData",
+      "internalName": "Skin_MAK_05a",
+      "spriteName": "Skin_MAK_05a_Portrait",
+      "file": "Skin_MAK_05a_Portrait__pig.png",
+      "sha256": "1f4c20b7614895b1eb7b75efd8ff634006b2fd339037f84e7f43429a1dc692dc",
+      "fullFile": "Skin_MAK_05a_StoreImage__pig.png",
+      "fullSha256": "3607d7951ac60a007618d67ae5fdb6c1f54cc80874266fa052cab7ecfefcd21c",
+      "portraitPixelsPerUnit": 355.4866828087167,
+      "portraitPivot": [
+        0.5145505327262687,
+        0.4785200675031183
+      ],
+      "fullContent": [
+        0.20175438596491227,
+        0.007177033492822967,
+        0.5741626794258373,
+        0.9880382775119617
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Arcane Scholar Mak",
+      "configId": "Skin_MAK_06a",
+      "assetName": "Skin_MAK_06a_SkinData",
+      "internalName": "Skin_MAK_06a",
+      "spriteName": "Skin_MAK_06a_Portrait",
+      "file": "Skin_MAK_06a_Portrait__pig.png",
+      "sha256": "918cd464e58b6c040e0279d2b5e47082a3f7099b961bbb20f279441a86f24a5b",
+      "fullFile": "Skin_MAK_06a_StoreImage__pig.png",
+      "fullSha256": "d603866b13d00b4f908bfff03fa63650452895f32cba802f969ff9194bac144c",
+      "portraitPixelsPerUnit": 339.6923076923077,
+      "portraitPivot": [
+        0.5259477364740522,
+        0.45709115445957554
+      ],
+      "fullContent": [
+        0.12759170653907495,
+        0.018341307814992026,
+        0.7886762360446571,
+        0.9210526315789473
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Purifier Mak",
+      "configId": "Skin_MAK_07a",
+      "assetName": "Skin_MAK_07a_SkinData",
+      "internalName": "Skin_MAK_07a",
+      "spriteName": "Skin_MAK_07a_Portrait",
+      "file": "Skin_MAK_07a_Portrait__pig.png",
+      "sha256": "04355b96db51bb53e6c56359e45a9e076991ec532ba36e3f30edc07e1c80e369",
+      "fullFile": "Skin_MAK_07a_StoreImage__pig.png",
+      "fullSha256": "7f8b3ea32949c8bee235c78346b82932abd58223e74501190cd328e2643d0918",
+      "portraitPixelsPerUnit": 386.5036674816626,
+      "portraitPivot": [
+        0.4989992902906299,
+        0.46589008083667716
+      ],
+      "fullContent": [
+        0.12041467304625199,
+        0.014354066985645933,
+        0.8261562998405104,
+        0.9776714513556619
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Mystic Legend Mak",
+      "configId": "Skin_MAK_08a",
+      "assetName": "Skin_MAK_08a_SkinData",
+      "internalName": "Skin_MAK_08a",
+      "spriteName": "Skin_MAK_08a_Portrait",
+      "file": "Skin_MAK_08a_Portrait__pig.png",
+      "sha256": "69c4f0f6ccec2a1263d1f6b6839ad2485fa1b04a57a5cba20694529468bca06e",
+      "fullFile": "Skin_MAK_08a_StoreImage__pig.png",
+      "fullSha256": "eb20d1f89c138f742b015bfc13d1c5027389b628f02c9e3e59999a6897e8a33e",
+      "portraitPixelsPerUnit": 337.7900807381776,
+      "portraitPivot": [
+        0.5114802183186812,
+        0.4768905592070771
+      ],
+      "fullContent": [
+        0.02073365231259968,
+        0.030303030303030304,
+        0.9505582137161085,
+        0.9385964912280702
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Erudite Mak",
+      "configId": "Skin_MAK_09a",
+      "assetName": "Skin_MAK_09a_SkinData",
+      "internalName": "Skin_MAK_09a",
+      "spriteName": "Skin_MAK_09a_Portrait",
+      "file": "Skin_MAK_09a_Portrait__pig.png",
+      "sha256": "bb537093c571f9639c50fdddca909a9f3d03d01d949574720318eedffb8392a5",
+      "fullFile": "Skin_MAK_09a_StoreImage__pig.png",
+      "fullSha256": "912242aef98657ae62cfbbff685b658f51c9bcf379572c23dfed8ff4f28949d2",
+      "portraitPixelsPerUnit": 347.2039312039312,
+      "portraitPivot": [
+        0.4998579484225417,
+        0.45912049500566243
+      ],
+      "fullContent": [
+        0.23125996810207336,
+        0.0215311004784689,
+        0.5893141945773525,
+        0.9393939393939394
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Secrets of Shred Mak",
+      "configId": "Skin_MAK_10a",
+      "assetName": "Skin_MAK_10a_SkinData",
+      "internalName": "Skin_MAK_10a",
+      "spriteName": "Skin_MAK_10a_Portrait",
+      "file": "Skin_MAK_10a_Portrait__pig.png",
+      "sha256": "e1ac4548046857bbc417fef50d756adc8169c9cea87ebd81ebab99785a4649f8",
+      "fullFile": "Skin_MAK_10a_StoreImage__pig.png",
+      "fullSha256": "b489714e9aaf1b922cb788af8d38205eb3131d2819834c678eb6d0e9f1c2caf4",
+      "portraitPixelsPerUnit": 356.726392251816,
+      "portraitPivot": [
+        0.5172498851133999,
+        0.4380404014659144
+      ],
+      "fullContent": [
+        0.13157894736842105,
+        0.019138755980861243,
+        0.75518341307815,
+        0.9681020733652312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Secrets of Shred Mak B",
+      "configId": "Skin_MAK_10b",
+      "assetName": "Skin_MAK_10b_SkinData",
+      "internalName": "Skin_MAK_10b",
+      "spriteName": "Skin_MAK_10b_Portrait",
+      "file": "Skin_MAK_10b_Portrait__pig.png",
+      "sha256": "991e796f869001d0debbc548abdd60c6569ebcd9730e7937217166373e5bffd4",
+      "fullFile": "Skin_MAK_10b_StoreImage__pig.png",
+      "fullSha256": "a3d0c674156cfd9b5d5b5acc4fd3b1fb415f4312f48bb3152cdbfb9b40074fd1",
+      "portraitPixelsPerUnit": 371.6029055690073,
+      "portraitPivot": [
+        0.5091832045444891,
+        0.4421859734080965
+      ],
+      "fullContent": [
+        0.08851674641148326,
+        0.01594896331738437,
+        0.8333333333333334,
+        0.9840510366826156
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Coldheart Mak",
+      "configId": "Skin_MAK_11a",
+      "assetName": "Skin_MAK_11a_SkinData",
+      "internalName": "Skin_MAK_11a",
+      "spriteName": "Skin_MAK_11a_Portrait",
+      "file": "Skin_MAK_11a_Portrait__pig.png",
+      "sha256": "21c2cd26d97ebba7571265ba80dce2afaab87ac386ce796f15158b17717ae994",
+      "fullFile": "Skin_MAK_11a_StoreImage__pig.png",
+      "fullSha256": "f9472414e43e0bbc16764a112774042e995683929466dda4fe0b1de0383b12ba",
+      "portraitPixelsPerUnit": 340.94009216589865,
+      "portraitPivot": [
+        0.49256572516334823,
+        0.5013266303588884
+      ],
+      "fullContent": [
+        0.25757575757575757,
+        0.03269537480063796,
+        0.49282296650717705,
+        0.9545454545454546
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Makdown Mak A",
+      "configId": "Skin_MAK_12a",
+      "assetName": "Skin_MAK_12a_SkinData",
+      "internalName": "Skin_MAK_12a",
+      "spriteName": "Skin_MAK_12a_Portrait",
+      "file": "Skin_MAK_12a_Portrait__pig.png",
+      "sha256": "800ab98ca8dd32642286075c1b39072f93d789f3ab653ffd1ada01e797911d6f",
+      "fullFile": "Skin_MAK_12a_StoreImage__pig.png",
+      "fullSha256": "869707edb8bb8462284a405da497a0d38d4d9c805d108dcee65a983eced850c1",
+      "portraitPixelsPerUnit": 323.04145601617796,
+      "portraitPivot": [
+        0.517989753315175,
+        0.48578905439902725
+      ],
+      "fullContent": [
+        0.06539074960127592,
+        0.02073365231259968,
+        0.828548644338118,
+        0.9609250398724083
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Makdown Mak B",
+      "configId": "Skin_MAK_12b",
+      "assetName": "Skin_MAK_12b_SkinData",
+      "internalName": "Skin_MAK_12b",
+      "spriteName": "Skin_MAK_12b_Portrait",
+      "file": "Skin_MAK_12b_Portrait__pig.png",
+      "sha256": "710f777dbc75824164453c48ac12a95e02908e51d136acf0f4b27c567013d6dc",
+      "fullFile": "Skin_MAK_12b_StoreImage__pig.png",
+      "fullSha256": "6bba230b532d0d13bce8934b709fd69a09d80f6ff7540554cf00ee54c9907171",
+      "portraitPixelsPerUnit": 326.2439024390244,
+      "portraitPivot": [
+        0.5026111564943401,
+        0.46875364686661225
+      ],
+      "fullContent": [
+        0.0645933014354067,
+        0.024720893141945772,
+        0.8197767145135566,
+        0.9497607655502392
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Competitor Mak",
+      "configId": "Skin_MAK_12c",
+      "assetName": "Skin_MAK_12c_SkinData",
+      "internalName": "Skin_MAK_12c",
+      "spriteName": "Skin_MAK_12c_Portrait",
+      "file": "Skin_MAK_12c_Portrait__pig.png",
+      "sha256": "92a8319dcc1966e6988c0ac132208ef75ca09eaa2329f53b5c0eb7f6e78f9ef6",
+      "fullFile": "Skin_MAK_12c_StoreImage__pig.png",
+      "fullSha256": "e3f7203f12294438a94f632220f49f0726c6161f42ab0139488e9c47d2fce1e8",
+      "portraitPixelsPerUnit": 355.3992673992674,
+      "portraitPivot": [
+        0.5011070800544485,
+        0.464859701701807
+      ],
+      "fullContent": [
+        0.07974481658692185,
+        0.023923444976076555,
+        0.8125996810207337,
+        0.9521531100478469
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Mystic Agent Mak",
+      "configId": "Skin_MAK_13a",
+      "assetName": "Skin_MAK_13a_SkinData",
+      "internalName": "Skin_MAK_13a",
+      "spriteName": "Skin_MAK_13a_Portrait",
+      "file": "Skin_MAK_13a_Portrait__pig.png",
+      "sha256": "7292b2fce915791fc6e56938bf869a6f02cc985631845a06a4c7c79337f82f3f",
+      "fullFile": "Skin_MAK_13a_StoreImage__pig.png",
+      "fullSha256": "b4ba9c1a1e3088c75aac59031c9300200d4f202d0ef07ccb73e7364dcb3e3b10",
+      "portraitPixelsPerUnit": 338.343949044586,
+      "portraitPivot": [
+        0.5,
+        0.4624843811903819
+      ],
+      "fullContent": [
+        0.24401913875598086,
+        0.03588516746411483,
+        0.6363636363636364,
+        0.9393939393939394
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Mystic Agent Mak B",
+      "configId": "Skin_MAK_13b",
+      "assetName": "Skin_MAK_13b_SkinData",
+      "internalName": "Skin_MAK_13b",
+      "spriteName": "Skin_MAK_13b_Portrait",
+      "file": "Skin_MAK_13b_Portrait__pig.png",
+      "sha256": "55f763cd66d083766d519b21d7bcf95da070319fabd229e7caa23cd3a0ba5749",
+      "fullFile": "Skin_MAK_13b_StoreImage__pig.png",
+      "fullSha256": "6f3bf06a0c11c77a1d5acc60ee57d4b36deaf9ba8ad9e240c602ca1d0dc00002",
+      "portraitPixelsPerUnit": 384.0,
+      "portraitPivot": [
+        0.5047846889952153,
+        0.45534290271132377
+      ],
+      "fullContent": [
+        0.2551834130781499,
+        0.023125996810207338,
+        0.6124401913875598,
+        0.9577352472089314
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Morning Person Mak",
+      "configId": "Skin_MAK_14a",
+      "assetName": "Skin_MAK_14a_SkinData",
+      "internalName": "Skin_MAK_14a",
+      "spriteName": "Skin_MAK_14a_Portrait",
+      "file": "Skin_MAK_14a_Portrait__pig.png",
+      "sha256": "9dfb33aca17a3fffa0349b93ff22b9e706c2ccd366a0254271b44314b2104348",
+      "fullFile": "Skin_MAK_14a_StoreImage__pig.png",
+      "fullSha256": "2977cb0fed0177b220b1ac6280a9eb22945e07213b591371bb94bf92e8da762c",
+      "portraitPixelsPerUnit": 391.6666666666667,
+      "portraitPivot": [
+        0.4889001030037214,
+        0.4870092786416799
+      ],
+      "fullContent": [
+        0.09330143540669857,
+        0.0342902711323764,
+        0.8070175438596491,
+        0.9290271132376395
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Serious Man Mak",
+      "configId": "Skin_MAK_15a",
+      "assetName": "Skin_MAK_15a_SkinData",
+      "internalName": "Skin_MAK_15a",
+      "spriteName": "Skin_MAK_15a_Portrait",
+      "file": "Skin_MAK_15a_Portrait__pig.png",
+      "sha256": "0052991ff1f2a4e044c9abed233b957b20a3e4a0ccaa20ef2ac1bdd2e0462555",
+      "fullFile": "Skin_MAK_15a_StoreImage__pig.png",
+      "fullSha256": "d60fadadccc295380799f39578d0c68d56aa02dbe8d4f36fa349221cd2c15f14",
+      "portraitPixelsPerUnit": 363.33565621370497,
+      "portraitPivot": [
+        0.49943409892062013,
+        0.47225834356771457
+      ],
+      "fullContent": [
+        0.2647527910685805,
+        0.030303030303030304,
+        0.5039872408293461,
+        0.9481658692185008
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Lothario Mak",
+      "configId": "Skin_MAK_16a",
+      "assetName": "Skin_MAK_16a_SkinData",
+      "internalName": "Skin_MAK_16a",
+      "spriteName": "Skin_MAK_16a_Portrait",
+      "file": "Skin_MAK_16a_Portrait__pig.png",
+      "sha256": "ed710ab39a5dbb0b7b566a9716192a7f29a7ff4d5db8dfd2f97d1a697d8eeff3",
+      "fullFile": "Skin_MAK_16a_full__pig.png",
+      "fullSha256": "56a7824096bd8b8406b1248f6b8ec35a6c83fac90bf9a67b7a45b3b880b47da6",
+      "portraitPixelsPerUnit": 353.62711864406776,
+      "portraitPivot": [
+        0.554733327926905,
+        0.45428864920390344
+      ],
+      "fullContent": [
+        0.11244019138755981,
+        0.008771929824561403,
+        0.7942583732057417,
+        0.9824561403508771
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Eternal Life Mak",
+      "configId": "Skin_MAK_17a",
+      "assetName": "Skin_MAK_17a_SkinData",
+      "internalName": "Skin_MAK_17a",
+      "spriteName": "Skin_MAK_17a_Portrait",
+      "file": "Skin_MAK_17a_Portrait__pig.png",
+      "sha256": "7a160373c280d0532da82da04eb0208847c59409d066748b2a5f15fe57882c9d",
+      "fullFile": "Skin_MAK_17a_StoreImage__pig.png",
+      "fullSha256": "a750a2e4f10d97d1f866be9d1b8aa781e90cb03397d6f5aef47143234af97d32",
+      "portraitPixelsPerUnit": 362.19698725376594,
+      "portraitPivot": [
+        0.5245587237872412,
+        0.48263910064849264
+      ],
+      "fullContent": [
+        0.19776714513556617,
+        0.019138755980861243,
+        0.5614035087719298,
+        0.9720893141945773
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Summer Sabbatical Mak",
+      "configId": "Skin_MAK_18a",
+      "assetName": "Skin_MAK_18a_SkinData",
+      "internalName": "Skin_MAK_18a",
+      "spriteName": "Skin_MAK_18a_Portrait",
+      "file": "Skin_MAK_18a_Portrait__pig.png",
+      "sha256": "e71da10e14e7c8e42410d061a5a739b0596f4743edf33ee2bae78fd8e0480a27",
+      "fullFile": "Skin_MAK_18a_StoreImage__pig.png",
+      "fullSha256": "1713ad0988781ec761e6324d08312d0514e9bbaafe20d925b703a38b05ae9f8a",
+      "portraitPixelsPerUnit": 345.72900335946247,
+      "portraitPivot": [
+        0.5181769959868622,
+        0.4936409536515625
+      ],
+      "fullContent": [
+        0.058213716108452954,
+        0.0007974481658692185,
+        0.8963317384370016,
+        0.9984051036682615
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Jungle Delver Mak",
+      "configId": "Skin_MAK_19a",
+      "assetName": "Skin_MAK_19a_SkinData",
+      "internalName": "Skin_MAK_19a",
+      "spriteName": "Skin_MAK_19a_Portrait",
+      "file": "Skin_MAK_19a_Portrait__pig.png",
+      "sha256": "035f2905d5cba09b130dd89ed3a9cf610bf9faaa54a8cf7c4f5e6abacac1ad01",
+      "fullFile": "Skin_MAK_19a_StoreImage__pig.png",
+      "fullSha256": "787230b0c97ea399ad7f10e70039d91947caf584d455a33bb16ba738e3bc5fbe",
+      "portraitPixelsPerUnit": 342.00223964165735,
+      "portraitPivot": [
+        0.5005326739428231,
+        0.49085122456961916
+      ],
+      "fullContent": [
+        0.04704944178628389,
+        0.015151515151515152,
+        0.8165869218500797,
+        0.9784688995215312
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · Jungle Delver Mak B",
+      "configId": "Skin_MAK_19b",
+      "assetName": "Skin_MAK_19b_SkinData",
+      "internalName": "Skin_MAK_19b",
+      "spriteName": "Skin_MAK_19b_Portrait",
+      "file": "Skin_MAK_19b_Portrait__pig.png",
+      "sha256": "4822a0aebacc911bc0b2383994558244ced6b3e4c6cb5d18c8a72bfb678d1d59",
+      "fullFile": "Skin_MAK_19b_StoreImage__pig.png",
+      "fullSha256": "e67ab22f19db191a6e250a8068c2cb08dc75295ab00cf3ddfb94cad483aa5005",
+      "portraitPixelsPerUnit": 336.2687569988802,
+      "portraitPivot": [
+        0.5005237439521638,
+        0.5058152099172905
+      ],
+      "fullContent": [
+        0.06937799043062201,
+        0.015151515151515152,
+        0.777511961722488,
+        0.9752791068580542
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Mak",
+      "label": "马克 · High Flyer Mak",
+      "configId": "Skin_MAK_21a",
+      "assetName": "Skin_MAK_21a_SkinData",
+      "internalName": "Skin_MAK_21a",
+      "spriteName": "Skin_MAK_21a_Portrait",
+      "file": "Skin_MAK_21a_Portrait__pig.png",
+      "sha256": "fdc9b0fed3de354750b0d516a31274edb7e751bb8cdf52c2a943e2793f38e332",
+      "fullFile": "Skin_MAK_21a_StoreImage__pig.png",
+      "fullSha256": "b0a15ba01a73fd4a81d632a590b94481397197ca0ce2d430f7a90b600e7534fb",
+      "portraitPixelsPerUnit": 364.0049200492005,
+      "portraitPivot": [
+        0.4829916959456676,
+        0.4543394716243813
+      ],
+      "fullContent": [
+        0.0023923444976076554,
+        0.011961722488038277,
+        0.9944178628389154,
+        0.9736842105263158
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Karnok",
+      "configId": "Skin_KAR_01",
+      "assetName": "Skin_KAR_01a_SkinData",
+      "internalName": "Skin_KAR_01",
+      "spriteName": "Skin_KAR_01a_Portrait",
+      "file": "Skin_KAR_01a_Portrait__pig.png",
+      "sha256": "2a74b13a847dde9f337a1899b0e73deaa65ff16f0242e7fc891cc1769bdc8231",
+      "fullFile": "Skin_KAR_01a_StoreImage__pig.png",
+      "fullSha256": "28b1effb57a6bc4b840e2ce82795df927237b250ac4029564b40ae4fec67f8c2",
+      "portraitPixelsPerUnit": 353.1248484848485,
+      "portraitPivot": [
+        0.5429959885940747,
+        0.4683475907399352
+      ],
+      "fullContent": [
+        0.18580542264752792,
+        0.005582137161084529,
+        0.751993620414673,
+        0.9808612440191388
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Karnok Beast Form",
+      "configId": "Skin_KAR_01_Creature",
+      "assetName": "Skin_KAR_01a_Creature_SkinData",
+      "internalName": "Skin_KAR_01_Creature",
+      "spriteName": "Skin_KAR_01a_Creature_Portrait",
+      "file": "Skin_KAR_01a_Creature_Portrait__pig.png",
+      "sha256": "2015a1bb342a7bc42c968384f41bb9c48211cd8cf028fdabddfdd787743a3229",
+      "fullFile": "Skin_KAR_01a_Creature_StoreImage__pig.png",
+      "fullSha256": "3d9d7667e4190c2eacff48c50f1684898932f9f6c5b133f9b1ffc0a8f4f4b157",
+      "portraitPixelsPerUnit": 350.0091047040971,
+      "portraitPivot": [
+        0.5014890136086526,
+        0.48956782907745294
+      ],
+      "fullContent": [
+        0.008771929824561403,
+        0.018341307814992026,
+        0.9856459330143541,
+        0.9593301435406698
+      ],
+      "isCreatureForm": true
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Alpha Karnok",
+      "configId": "Skin_KAR_02a",
+      "assetName": "Skin_KAR_02a_SkinData",
+      "internalName": "Skin_KAR_02",
+      "spriteName": "Skin_KAR_02a_Portrait",
+      "file": "Skin_KAR_02a_Portrait__pig.png",
+      "sha256": "b9e537a85cea468d8ba37fe435314c5f33a1812d0dbf79e8e4c10c8b707456ab",
+      "fullFile": "Skin_KAR_02a_StoreImage__pig.png",
+      "fullSha256": "5c956475ccd744cf878ff15b9153eb10c7b7e00776d9a658143472f0b2477bc8",
+      "portraitPixelsPerUnit": 370.0194174757282,
+      "portraitPivot": [
+        0.49862624068998623,
+        0.4639570849011319
+      ],
+      "fullContent": [
+        0.004784688995215311,
+        0.0685805422647528,
+        0.9952153110047847,
+        0.8484848484848485
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Alpha Karnok B",
+      "configId": "Skin_KAR_02b",
+      "assetName": "Skin_KAR_02b_SkinData",
+      "internalName": "Skin_KAR_02b",
+      "spriteName": "Skin_KAR_02b_Portrait",
+      "file": "Skin_KAR_02b_Portrait__pig.png",
+      "sha256": "0629b0561346a1a14bf4925531435814e2c63fd21f1518338e3e00383eaf74f5",
+      "fullFile": "Skin_KAR_02b_StoreImage__pig.png",
+      "fullSha256": "2013783fd2572823edbe456cc534c2c48839e1b9d1dec90f1dbff48e88ecb55d",
+      "portraitPixelsPerUnit": 378.09708737864077,
+      "portraitPivot": [
+        0.4994111077561512,
+        0.446380320837398
+      ],
+      "fullContent": [
+        0.004784688995215311,
+        0.06060606060606061,
+        0.9952153110047847,
+        0.8787878787878788
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Talon Talent Karnok",
+      "configId": "Skin_KAR_03a",
+      "assetName": "Skin_KAR_03a_SkinData",
+      "internalName": "Skin_KAR_03",
+      "spriteName": "Skin_KAR_03a_Portrait",
+      "file": "Skin_KAR_03a_Portrait__pig.png",
+      "sha256": "9599a1d64e2e385f096c0359cb57616c716cfae0ec13e765285f56b2cedec2b5",
+      "fullFile": "Skin_KAR_03a_StoreImage__pig.png",
+      "fullSha256": "fe9fca94312c6df57f18d0c8a71390c6c5dd909addcb4c1b0fefaa2cb67a6ca0",
+      "portraitPixelsPerUnit": 371.33410942956925,
+      "portraitPivot": [
+        0.5026114338656462,
+        0.45820034794362346
+      ],
+      "fullContent": [
+        0.06937799043062201,
+        0.009569377990430622,
+        0.8596491228070176,
+        0.981658692185008
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Talon Talent Karnok B",
+      "configId": "Skin_KAR_03b",
+      "assetName": "Skin_KAR_03b_SkinData",
+      "internalName": "Skin_KAR_03b",
+      "spriteName": "Skin_KAR_03b_Portrait",
+      "file": "Skin_KAR_03b_Portrait__pig.png",
+      "sha256": "54f3a2da2b1591cccbba72b5fae7c2776393770df07f5eb41daf43c6bdb85455",
+      "fullFile": "Skin_KAR_03b_StoreImage__pig.png",
+      "fullSha256": "324367ddd630b0b8863e22ead58b85c10ba136caa8f3040a9d17038deb49d53b",
+      "portraitPixelsPerUnit": 378.71844660194176,
+      "portraitPivot": [
+        0.5010050363109894,
+        0.44829361576934396
+      ],
+      "fullContent": [
+        0.017543859649122806,
+        0.004784688995215311,
+        0.970494417862839,
+        0.9896331738437002
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "Karnok",
+      "label": "卡诺克 · Evolving Karnok",
+      "configId": "Skin_KAR_04a",
+      "assetName": "Skin_KAR_04a_SkinData",
+      "internalName": "Skin_KAR_04a",
+      "spriteName": "Skin_KAR_04a_Portrait",
+      "file": "Skin_KAR_04a_Portrait__pig.png",
+      "sha256": "4b3d7127f637dbf0a7b253918357729e793686fb56d77e68966fefbf22b33048",
+      "fullFile": "Skin_KAR_04a_StoreImage__pig.png",
+      "fullSha256": "29f2592ae61e2edf53658db6f47f9c80d601ff89c97a5ecd2b1a83cd1b40ed86",
+      "portraitPixelsPerUnit": 363.95180722891564,
+      "portraitPivot": [
+        0.5247545204742414,
+        0.4563805461078765
+      ],
+      "fullContent": [
+        0.07655502392344497,
+        0.004784688995215311,
+        0.8620414673046252,
+        0.9920255183413078
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "The Dragons",
+      "label": "巨龙乐队 · DRA 01a",
+      "configId": "Skin_DRA_01a",
+      "assetName": "Skin_DRA_01a_SkinData",
+      "internalName": "Skin_DRA_01a",
+      "spriteName": "Skin_DRA_01a_Portrait",
+      "file": "Skin_DRA_01a_Portrait__pig.png",
+      "sha256": "e6db15446be2053d0df7b76f8bf574efaea7473c1427d022462756aa473fe561",
+      "fullFile": "Skin_DRA_01a_StoreImage_TUI__pig.png",
+      "fullSha256": "147a243ec437f6f1003fe4f7fdd220e9ff7946e18be2a54e52a9b07796f91d87",
+      "portraitPixelsPerUnit": 348.470303030303,
+      "portraitPivot": [
+        0.539520564496641,
+        0.456636218645788
+      ],
+      "fullContent": [
+        0.044657097288676235,
+        0.017543859649122806,
+        0.9274322169059012,
+        0.9649122807017544
+      ],
+      "isCreatureForm": false
+    },
+    {
+      "hero": "The Dragons",
+      "label": "巨龙乐队 · Explosive Debut Dragons",
+      "configId": "Skin_DRA_02a",
+      "assetName": "Skin_DRA_02a_SkinData",
+      "internalName": "Skin_DRA_02a",
+      "spriteName": "Skin_DRA_02a_Portrait",
+      "file": "Skin_DRA_02a_Portrait__pig.png",
+      "sha256": "cb29d72b0d56c6f64893a9d230079ee4640acce57c5689ac70fa57fcb2379822",
+      "fullFile": "Skin_DRA_02a_StoreImage_TUI__pig.png",
+      "fullSha256": "989def985d48574d90833b7351eb3f66a978058eca02effc04bd202110ae2de0",
+      "portraitPixelsPerUnit": 319.4128440366972,
+      "portraitPivot": [
+        0.5108533426978622,
+        0.5211433504528628
+      ],
+      "fullContent": [
+        0.01674641148325359,
+        0.07017543859649122,
+        0.9736842105263158,
+        0.9098883572567783
+      ],
+      "isCreatureForm": false
+    }
+  ]
+}

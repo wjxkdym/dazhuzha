@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>大猪扎 · Mod 配置器</title><link rel="icon" href="dazhuzha-icon.png" type="image/png"><link rel="stylesheet" href="style.css"></head>
+<body>
+<aside class="sidebar"><div class="brand"><img class="brand-logo" src="dazhuzha-logo.png" alt="大猪扎"><small>THE BAZAAR · 猪化 MOD</small></div>
+<div class="side-label">我的内容</div><nav id="modules" aria-label="内容模块"></nav>
+<div class="side-bottom"><p>搭配属于你的猪猪世界</p><button id="allPig">全部使用猪化</button><button id="allOriginal">全部使用原版</button><div class="version">本地配置器 · v1.1.0<br>无需联网 · 无需 Python</div></div></aside>
+<main>
+<header><div class="breadcrumb">大猪扎 Mod 整合包 <span>/</span> 内容配置</div><div class="header-actions"><button id="import">导入方案</button><button id="export">导出方案</button><button id="quit" class="text-button">退出</button></div></header>
+<section class="intro"><div><div class="eyebrow">让冒险多一点可爱</div><h1>欢迎来到大猪扎。</h1><p>从整个模块到每一张卡牌，选择喜欢的猪化内容。</p></div><div class="summary"><strong id="effectiveCount">—</strong><span>项猪化内容已选择</span><small id="summaryNote">正在读取配置…</small></div></section>
+<div id="warning" class="notice warning" hidden></div>
+<section class="library">
+<div class="section-head"><div><h2 id="moduleTitle">卡牌</h2><p id="moduleDescription"></p></div><label class="module-toggle"><span>启用此模块</span><input id="moduleEnabled" type="checkbox" role="switch"><span class="switch"></span></label></div>
+<div id="moduleOff" class="notice" hidden>此模块已关闭，游戏将显示原版。下方单项选择仍会保留。</div>
+<div class="toolbar"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索卡名、英文名或 ID" aria-label="搜索内容"><kbd>/</kbd></label><select id="size" aria-label="卡牌尺寸"><option value="">全部尺寸</option><option value="Small">小型卡</option><option value="Medium">中型卡</option><option value="Large">大型卡</option></select><select id="status" aria-label="选择状态"><option value="">全部状态</option><option value="pig">已选猪化</option><option value="original">已选原版</option><option value="locked">暂未开放</option></select><select id="view" aria-label="缩略图版本"><option value="pig">查看猪化图</option><option value="original">查看原图</option></select></div>
+<div class="selection-bar"><span id="resultCount"></span><div><span>筛选结果：</span><button id="enableFiltered">全部猪化</button><button id="disableFiltered">全部原版</button></div></div>
+<div id="grid" class="grid" aria-live="polite"></div><div id="empty" class="empty" hidden>没有找到匹配内容。试试更短的名字，或清除筛选。</div>
+<div class="pagination"><button id="prev">← 上一页</button><span id="pageInfo"></span><button id="next">下一页 →</button></div>
+</section>
+<footer><div class="footnote"><strong>附魔沿用游戏原生效果</strong><span>修改后保存，重新启动游戏生效。原图对照为素材预览。</span></div><div class="foot-actions"><button id="folder" class="text-button">配置文件夹</button><button id="defaults" class="text-button">恢复默认</button><button id="reload">重新载入</button></div></footer>
+<div class="savebar"><div><span id="dirtyDot" class="dot"></span><strong id="saveStatus">正在加载…</strong><small id="saveHint">配置不会自动保存</small></div><button id="save" class="primary" disabled>保存并应用配置</button></div>
+</main>
+<dialog id="detail"><div class="dialog-head"><div><h2 id="detailTitle"></h2><p id="detailEnglish"></p></div><button id="closeDetail" aria-label="关闭预览">×</button></div><div class="detail-controls"><select id="part" aria-label="预览部件"></select><label><input id="detailEnabled" type="checkbox"> 使用这项猪化内容</label></div><div class="compare"><figure><div class="image-stage"><img id="originalPreview" alt="原图预览"></div><figcaption id="originalCaption">原版素材</figcaption></figure><figure><div class="image-stage"><img id="pigPreview" alt="猪化图预览"></div><figcaption>猪化素材</figcaption></figure></div><p id="detailNote" class="detail-note"></p><code id="detailId"></code></dialog>
+<input id="importFile" type="file" accept="application/json,.json" hidden><div id="toast" role="status" hidden></div>
+<script src="app.js"></script></body></html>

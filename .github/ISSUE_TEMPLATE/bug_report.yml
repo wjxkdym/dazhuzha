@@ -1,0 +1,32 @@
+name: 显示或配置问题
+description: 提交大猪扎的贴图、安装或配置问题
+title: "[问题] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 大猪扎版本与游戏版本
+    validations:
+      required: true
+  - type: dropdown
+    id: module
+    attributes:
+      label: 涉及模块
+      options:
+        - 安装 / 配置器
+        - 卡牌 / 附魔
+        - 英雄皮肤
+        - 事件 / 野怪
+        - 储存箱 / 主界面
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤与预期效果
+      description: 请注明卡名、皮肤名或配置器显示的资源 ID。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 截图与相关错误信息
+      description: 提交前去除账号信息、个人路径和本机配置器会话地址。

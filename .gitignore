@@ -1,0 +1,26 @@
+# Built binaries, private state, large artwork
+*.dll
+*.exe
+*.pdb
+*.zip
+*.7z
+*.log
+*.pyc
+__pycache__/
+.vs/
+.idea/
+.env
+.env.*
+/dist/
+/release/
+/package-files.json
+/BepInEx/config/
+/BepInEx/plugins/*/art/
+/Configurator/previews/
+**/installation.json
+**/settings.json
+**/backups/
+/tests/game/
+/tests/gate-fixture-*/
+/tests/*-report.json
+/安装结果.json
