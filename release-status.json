@@ -16,7 +16,9 @@
   "storage": 1,
   "mainMenuGroups": 16,
   "catalogControls": 1955,
-  "inGameVisualVerified": false,
+  "inGameVisualVerified": true,
+  "inGameVerificationSource": "author_report",
+  "inGameVerificationReportedOn": "2026-10-25",
   "distribution": {
     "channels": [
       "baidu",
