@@ -22,5 +22,6 @@ __pycache__/
 **/backups/
 /tests/game/
 /tests/gate-fixture-*/
+/tests/installer-fixture-*/
 /tests/*-report.json
 /安装结果.json

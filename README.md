@@ -24,6 +24,8 @@
 
 ## 下载
 
+**2026-10-25 安装修复已发布**：若选择游戏文件夹后出现 `Install.ps1:16` / `ConvertFrom-Json` 红字，请下载 [InstallerFix 小补丁](https://github.com/wjxkdym/dazhuzha/releases/download/v1.1.0-preview.2-lossless/Dazhuzha-v1.1.0-preview.2-lossless-InstallerFix.zip)，用其中的 `Install.ps1` 覆盖原解压目录中的同名文件，再运行安装。无需重下素材。新下载的 Core 包已包含修复；百度网盘同步提供补丁。
+
 [百度网盘下载](https://pan.baidu.com/s/1mrMRBw9EiSt3kIHC6y7zKw?pwd=q79x) · 提取码 **q79x** · [完整清单与安装说明](docs/DOWNLOADS.md)
 
 [GitHub Releases 下载](https://github.com/wjxkdym/dazhuzha/releases/tag/v1.1.0-preview.2-lossless)。完整包约 3.63 GB，必须下载 Core 和 3 个 Assets ZIP。

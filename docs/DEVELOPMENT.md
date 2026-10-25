@@ -22,6 +22,15 @@ Windows 自带 .NET Framework C# 编译器用于构建配置器：
 
 ## 测试
 
+安装器必须在 Windows PowerShell 5.1 和 PowerShell 7 中分别运行隔离测试。测试使用新建的假游戏目录，只模拟进程查询，不访问真实游戏目录。
+
+```powershell
+powershell.exe -NoProfile -File tests/Test-Installer.ps1
+pwsh -NoProfile -File tests/Test-Installer.ps1
+```
+
+可加 `-ReleaseManifest '完整发布包/package-files.json'`，验证包含中文品牌名称的完整 UTF-8 清单。安装器不能依赖系统默认编码。
+
 ```powershell
 pwsh -File tests/Test-SkinIndex.ps1
 pwsh -File tests/Test-Gates.ps1

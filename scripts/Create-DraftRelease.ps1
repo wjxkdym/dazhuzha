@@ -3,7 +3,7 @@ $ErrorActionPreference='Stop'
 if($Repository -notmatch '^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$'){throw 'Use owner/repository.'}
 if(-not (Get-Command gh -ErrorAction SilentlyContinue)){throw 'Install GitHub CLI and run gh auth login first.'}
 $releaseRoot=[IO.Path]::GetFullPath($Artifacts)
-$report=Get-Content -LiteralPath (Join-Path $releaseRoot 'release-report.json') -Raw | ConvertFrom-Json
+$report=Get-Content -LiteralPath (Join-Path $releaseRoot 'release-report.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $files=@()
 foreach($entry in $report.archives){
  $file=[IO.Path]::GetFullPath((Join-Path $releaseRoot $entry.file))

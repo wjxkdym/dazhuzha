@@ -1,5 +1,14 @@
 # 大猪扎 v1.1.0-preview.2-lossless
 
+## 2026-10-25 安装热修复（hotfix 1）
+
+修复部分中文 Windows 用户选择游戏目录后出现红字、`Install.ps1:16` / `ConvertFrom-Json` 报错的问题。安装器现在明确按 UTF-8 读取文件清单，兼容 Windows 自带的 PowerShell 5.1。
+
+- **已下载的用户**：只下载 `Dazhuzha-v1.1.0-preview.2-lossless-InstallerFix.zip`，将其中的 `Install.ps1` 覆盖到原解压目录（与“安装大猪扎.cmd”同级），再运行安装。无需重新下载素材。
+- **新用户**：下载本页更新后的 Core ZIP 和全部 3 个 Assets ZIP；Core 已包含修复。
+- GitHub 与百度网盘沿用原下载链接。3 个 Assets ZIP 完全不变；Core 校验值已更新，补丁校验值也收录在 `SHA256SUMS.txt`。
+- Windows PowerShell 5.1（中文默认代码页）和 PowerShell 7 各通过 9 项隔离安装检查，包括配置保留、备份及损坏文件拒绝安装；完整 6,450 项文件清单解析成功。
+
 「大猪扎」英雄皮肤补齐后的整合版本。Logo 基于游戏原字标的金边、银蓝字面和菱形宝石结构猪化，配置器同步使用新名称与图标。
 
 - 整合卡牌、英雄、事件、野怪、储存箱和主界面 6 个模块。

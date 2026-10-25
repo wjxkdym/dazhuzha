@@ -5,6 +5,7 @@
 ## 本地准备
 
 1. 运行构建与测试；完成素材校验。
+   安装器必须在 Windows PowerShell 5.1 与 PowerShell 7 中运行 `tests/Test-Installer.ps1`，并用 `-ReleaseManifest` 验证待发布的完整清单。
 2. 更新 `release-status.json`、README 与发布说明中的皮肤数量。
 3. 使用 `scripts/prepare_release.py` 生成 ZIP 与 SHA256SUMS。
 4. 解压验证 Core 与所有 Assets ZIP 合并后，`package-files.json` 中的文件全部存在且哈希一致。
@@ -32,6 +33,7 @@ GitHub [Release 附件须小于 2 GiB](https://docs.github.com/en/repositories/r
 
 - 仅保留 GitHub Releases 和百度网盘，不使用个人网站、CDN 或 BT。
 - 本次采用已经完成像素验证的无损安装包，发布目录见本地渠道准备记录。不要重新打包或混用此前非 lossless 版本。
+- 安装热修复沿用当前 Release 链接，仅更新 Core、发布报告与校验文件，另提供 InstallerFix ZIP；保留 3 个 Assets ZIP 的字节和校验值。公开旧包前保留本地备份，更新后核对两个渠道的实际文件。
 - 百度网盘链接与 4 个 ZIP 的摘要见 DOWNLOADS.md；GitHub 应上传字节完全相同的 ZIP。
 - 作者已授权将本版发布至 GitHub，并向 B 站投稿宣传片。
 - 正式发布后，将真实 Release URL 更新到 DOWNLOADS.md、README、release-status.json 与 B 站简介，删除“待发布”说明。

@@ -37,5 +37,17 @@
     },
     "website": "cancelled",
     "bt": "cancelled"
+  },
+  "installerHotfix": {
+    "revision": 1,
+    "date": "2026-10-25",
+    "reason": "Explicit UTF-8 manifest read for Windows PowerShell 5.1",
+    "patch": "Dazhuzha-v1.1.0-preview.2-lossless-InstallerFix.zip",
+    "assetsChanged": false,
+    "testedPowerShell": [
+      "5.1.26100.9711",
+      "7.6.5"
+    ],
+    "checksPerVersion": 9
   }
 }

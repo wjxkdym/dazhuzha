@@ -13,7 +13,7 @@ Assert-Closed
 if(-not (Test-Path -LiteralPath (Join-Path $suiteGame 'TheBazaar.exe'))){throw 'Invalid game directory'}
 if(-not (Test-Path -LiteralPath (Join-Path $suiteGame 'BepInEx/core/BepInEx.dll'))){throw 'BepInEx must already be installed. This package does not replace the game loader.'}
 if(Get-Process -Name PigModConfigurator -ErrorAction SilentlyContinue){throw 'Close Pig Mod Configurator before installing.'}
-$suiteManifest=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'package-files.json') -Raw | ConvertFrom-Json
+$suiteManifest=Get-Content -LiteralPath (Join-Path $PSScriptRoot 'package-files.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 if($suiteManifest.schemaVersion -ne 1){throw 'Unsupported package manifest'}
 $suiteAllowed=@('PigCardArt','PigEncounterArt','PigPortraitArt','PigStorageArt','PigMainMenuArt')
 function Resolve-Target([string]$Relative){

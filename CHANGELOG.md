@@ -1,5 +1,12 @@
 # 更新记录
 
+## 1.1.0-preview.2-lossless 安装热修复 1（2026-10-25）
+
+- 安装器明确以 UTF-8 读取 `package-files.json`，修复中文 Windows PowerShell 5.1 默认 ANSI 解码导致的 JSON 解析失败。
+- 发布脚本明确以 UTF-8 读取发布报告，避免同类问题。
+- 更新 Core ZIP，增加仅含安装脚本与说明的 InstallerFix ZIP；素材 ZIP 保持原字节。
+- 新增真实安装器的隔离测试，覆盖首次安装、重复安装、配置保留、备份和损坏文件验证。PowerShell 5.1 与 7 均通过。
+
 ## 1.1.0-preview.2
 
 - 补齐当前客户端清单中的全部 176 套英雄皮肤、352 张头像与立绘，并同步配置器预览。
